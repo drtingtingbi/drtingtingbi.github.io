@@ -1,25 +1,25 @@
-
+![image](https://github.com/drtingtingbi/drtingtingbi.github.io/assets/69332098/9dab70c1-f035-4d48-a437-15c2a6a69523)![image](https://github.com/drtingtingbi/drtingtingbi.github.io/assets/69332098/625615f7-c449-4b49-8029-c34d564d4da7)![image](https://github.com/drtingtingbi/drtingtingbi.github.io/assets/69332098/0fd0b01f-8301-4b64-8a17-5aa2b81bfe78)
 
 # Tingting Bi's Homepage
 
 ## About me
 
-> I’m a **research scienest** at Data61, CSIRO; currently, I’m also a **lecturer** (a.k.a. Assistant Professor) at Univerisity of Western Australia (UWA).
+> I’m a **research scientist** at Data61, CSIRO; currently, I’m also a **lecturer** (a.k.a. Assistant Professor) at the Univerisity of Western Australia (UWA).
 > 
 > I hold a PhD degree from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more.
 
 ## News
-> I am consistently on accepting dedicated PhD students who are interested in collaborating with me. If you are keen to explore this opportunity, kindly send me your CV at Tingting.Bi@uwa.edu.au
+> I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are keen to explore this opportunity, kindly send me your CV at Tingting.Bi@uwa.edu.au
 
 ## Selective Publications
 
-* The full pulications can be found at [Google Scholar](https://scholar.google.com/citations?user=hE9wbMwAAAAJ&hl=en)
+* The full publications can be found at [Google Scholar](https://scholar.google.com/citations?user=hE9wbMwAAAAJ&hl=en)
 
 #### 2023
 
 - **T Bi**, G Yu, Q Lu, X Xu, N Van Beest; The Privacy Pillar–A Conceptual Framework for Foundation Model-based Systems; IEEE Software; [Link](https://arxiv.org/pdf/2311.06998.pdf).
 - C Chen, J Su, J Chen, Y Wang, **T Bi**, Y Wang, X Lin, T Chen, Z Zheng; When chatgpt meets smart contract vulnerability detection: How far are we?; ACM Transactions on Software Engineering and Methodology (TOSEM), **CORE A***; [Link](https://arxiv.org/pdf/2309.05520.pdf).
-- R Huang, J Chen, Y Wang, T Bi, Z Zheng; An overview of Web3. 0 Technology: Infrastructure, Applications, and Popularity Emprical Software Engineering,  **CORE A**; [Link](https://arxiv.org/pdf/2305.00427.pdf).
+- R Huang, J Chen, Y Wang, T Bi, Z Zheng; An overview of Web3. 0 Technology: Infrastructure, Applications, and Popularity Empirical Software Engineering,  **CORE A**; [Link](https://arxiv.org/pdf/2305.00427.pdf).
 - **T Bi**, B Xia, Z Xing, Q Lu, L Zhu; On the Way to SBOMs: Investigating Design Issues and Solutions in Practice; ACM Transactions on Software Engineering and Methodology (TOSEM), **CORE A***; [Link](https://arxiv.org/pdf/2304.13261.pdf).
 - B Xia, **T Bi**, Z Xing, Q Lu, L Zhu; An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead; 45th IEEE/ACM International Conference on Software Engineering (ICSE’23), **CORE A***; [Link](https://arxiv.org/pdf/2301.05362.pdf).
 - **T Bi**; Empirical Studies on Software Development Knowledge with A Focus on Quality Attributes; Monash University; [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hE9wbMwAAAAJ&sortby=pubdate&citation_for_view=hE9wbMwAAAAJ:IWHjjKOFINEC).
@@ -45,9 +45,9 @@
 
 ## Profossional Service
 > - ICSE’s SEIS, 2024, PC member
-> - ESEC/FSE's Demostration track, 2024, PC member
+> - ESEC/FSE's Demonstration track, 2024, PC member
 > - Internetware, Main track, 2023, PC member
-> - ICSE’s Demostration track, 2023, PC member
+> - ICSE’s Demonstration track, 2023, PC member
 > - BlockSys, Mian track, 2023, PC member
 > - SANER, Main track, 2022, PC member
 
@@ -57,14 +57,14 @@
 > - ChinaSoft, Shanghai, 2023.12
 > - Seminar talk, Concordia Univeristy, Montreal, 2023. 05
 
-### Teachning Units
+### Teaching Units
 > - FIT3077, Software Architecture Design, 2020-2023;
 > - FIT2107, Software Quality and Testing, 2020-2023;
-> - FIT2099, Object oriented design and implementation, 2021-2023;
+> - FIT2099, Object-oriented design and implementation, 2021-2023;
 
-## Selected Honours
+## Selected Honours & Awards
 
-> - Distinguished reviewe, Internetware, 2023
+> - Distinguished reviewer, Internetware, 2023
 > - Academic Excellence Scholarship, Australia 2022
 > - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
 > - Monash Univerisity full PhD Scholarship, Australia, 2018-2021
@@ -72,4 +72,4 @@
 ***
 
 ## Life
-> I prioritize life and family over work. Outside of my professional life, I find fulfillment in activities like rock climbing, kiteboarding, and snowboarding amidst nature. Engaging in these pursuits not only refreshes my mind but also keeps me active and positive, contributing to a well-rounded and balanced lifestyle.
+> I prioritize life and family over work. Outside of my professional life, I find fulfilment in activities like rock climbing, kiteboarding, and snowboarding amidst nature. Engaging in these pursuits not only refreshes my mind but also keeps me active and positive, contributing to a well-rounded and balanced lifestyle.
