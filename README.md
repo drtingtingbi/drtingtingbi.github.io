@@ -44,11 +44,12 @@
 - C Yang, P Liang, P Avgeriou, U Eliasson, R Heldal, P Pelliccione, **T Bi**; An industrial case study on an architectural assumption documentation framework, Journal of Systems and Software 134, 190-210, **CORE A**; [Link](https://www.sciencedirect.com/science/article/pii/S0164121217301966).
 
 ## Profossional Severice
-> - ICSE’ SEIS, 2024, PC member
-> - Internetware, 2023, PC member
-> - ICSE’ Demo, 2023, PC member
-> - BlockSys， mian track, 2023, PC member
-> - SANER, main track, 2022, PC member
+> - ICSE’s SEIS, 2024, PC member
+> - ESEC/FSE's Demostration track, 2024, PC member
+> - Internetware, Main track, 2023, PC member
+> - ICSE’s Demostration track, 2023, PC member
+> - BlockSys，Mian track, 2023, PC member
+> - SANER, Main track, 2022, PC member
 
 ## Talks & Techning
 ### Invited Speaker
