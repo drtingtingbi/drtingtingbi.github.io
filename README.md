@@ -15,7 +15,7 @@
 
 * The full pulications can be found at [Google Scholar](https://scholar.google.com/citations?user=hE9wbMwAAAAJ&hl=en)
 
-### 2023
+#### 2023
 
 - **T Bi**, G Yu, Q Lu, X Xu, N Van Beest; The Privacy Pillar–A Conceptual Framework for Foundation Model-based Systems; IEEE Software; [Link](https://arxiv.org/pdf/2311.06998.pdf).
 - C Chen, J Su, J Chen, Y Wang, **T Bi**, Y Wang, X Lin, T Chen, Z Zheng; When chatgpt meets smart contract vulnerability detection: How far are we?; ACM Transactions on Software Engineering and Methodology (TOSEM), **CORE A***; [Link](https://arxiv.org/pdf/2309.05520.pdf).
@@ -24,7 +24,7 @@
 - B Xia, **T Bi**, Z Xing, Q Lu, L Zhu; An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead; 45th IEEE/ACM International Conference on Software Engineering (ICSE’23), **CORE A***; [Link](https://arxiv.org/pdf/2301.05362.pdf).
 - **T Bi**; Empirical Studies on Software Development Knowledge with A Focus on Quality Attributes; Monash University; [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hE9wbMwAAAAJ&sortby=pubdate&citation_for_view=hE9wbMwAAAAJ:IWHjjKOFINEC).
 
-### 2022
+#### 2022
 
 - **T Bi**, X Xia, D Lo, J Grundy, T Zimmermann, D Ford; Accessibility in software practice: A practitioner’s perspective; ACM Transactions on Software Engineering and Methodology (TOSEM) 31 (4), 1-26, **CORE A***; [Link](https://dl.acm.org/doi/pdf/10.1145/3503508).
 - L Wijerathna, A Aleti,**T Bi**; A Tang; Mining and relating design contexts and design patterns from Stack Overflow; Empirical Software Engineering 27, 1-53, **CORE A**;
@@ -32,12 +32,12 @@
 - **T Bi**, X Xia, D Lo, A Aleti; A First Look at Accessibility Issues in Popular GitHub Projects; International Conference on Software Maintenance and Engineering (ICSME), **CORE A**; [Link](https://ieeexplore.ieee.org/abstract/document/9609147/).
 - **T Bi**, P Liang, A Tang, X Xia; Mining architecture tactics and quality attributes knowledge in Stack Overflow; Journal of Systems and Software 180, 111005, **CORE A**; [Link](https://www.sciencedirect.com/science/article/pii/S0164121221001023).
 
-### 2021
+#### 2021
 
 - **T Bi**, X Xia, D Lo, J Grundy, T Zimmermann; An empirical study of release note production and usage in practice; IEEE Transactions on Software Engineering 48 (6), 1834-1852,**CORE A***; [Link](https://ieeexplore.ieee.org/abstract/document/9263357).
 - **T Bi**, W Ding, P Liang, A Tang, Architecture information communication in two OSS projects: The why, who, when, and what; Journal of Systems and Software 181, 111035，**CORE A***; [Link](https://www.sciencedirect.com/science/article/pii/S0164121221001321).
 
-### 2020
+#### 2020
 
 - **T Bi**, P Liang, A Tang; Architecture patterns, quality attributes, and design contexts: How developers design with them; 2018 25th Asia-Pacific Software Engineering Conference (APSEC), 49-58, 2018, **CORE B**; [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8719565).
 - **T Bi**, P Liang, A Tang, C Yang; A systematic mapping study on text analysis techniques in software architecture, Journal of Systems and Software 144, 533-558, **CORE A**; [Link](https://www.sciencedirect.com/science/article/pii/S0164121218301493).
@@ -48,10 +48,11 @@
 > - ESEC/FSE's Demostration track, 2024, PC member
 > - Internetware, Main track, 2023, PC member
 > - ICSE’s Demostration track, 2023, PC member
-> - BlockSys，Mian track, 2023, PC member
+> - BlockSys, Mian track, 2023, PC member
 > - SANER, Main track, 2022, PC member
 
 ## Talks & Techning
+
 ### Invited Speaker
 > - ChinaSoft, Shanghai, 2023.12
 > - Seminar talk, Concordia Univeristy, Montreal, 2023. 05
@@ -65,8 +66,8 @@
 
 > - Distinguished reviewe, Internetware, 2023
 > - Academic Excellence Scholarship, Australia 2022
-> - CSIRO Top-up PhD Scholarship, Australia, 2019-2022
-> - Monash Univerisity full PhD Scholarship, Australia, 2019-2022
+> - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
+> - Monash Univerisity full PhD Scholarship, Australia, 2018-2021
 
 ***
 
