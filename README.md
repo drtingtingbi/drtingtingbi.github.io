@@ -43,7 +43,7 @@
 - **T Bi**, P Liang, A Tang, C Yang; A systematic mapping study on text analysis techniques in software architecture, Journal of Systems and Software 144, 533-558, **CORE A**; [Link](https://www.sciencedirect.com/science/article/pii/S0164121218301493).
 - C Yang, P Liang, P Avgeriou, U Eliasson, R Heldal, P Pelliccione, **T Bi**; An industrial case study on an architectural assumption documentation framework, Journal of Systems and Software 134, 190-210, **CORE A**; [Link](https://www.sciencedirect.com/science/article/pii/S0164121217301966).
 
-## Profossional Severice
+## Profossional Service
 > - ICSE’s SEIS, 2024, PC member
 > - ESEC/FSE's Demostration track, 2024, PC member
 > - Internetware, Main track, 2023, PC member
