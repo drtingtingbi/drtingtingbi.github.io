@@ -17,44 +17,31 @@
 
 ### 2023
 
-**T Bi**, G Yu, Q Lu, X Xu, N Van Beest; The Privacy Pillar–A Conceptual Framework for Foundation Model-based Systems; arXiv preprint arXiv:2311.06998.
-
-C Chen, J Su, J Chen, Y Wang, **T Bi**, Y Wang, X Lin, T Chen, Z Zheng; When chatgpt meets smart contract vulnerability detection: How far are we?; TOSEM.
-
-R Huang, J Chen, Y Wang, T Bi, Z Zheng; An overview of Web3. 0 Technology: Infrastructure, Applications, and Popularity; Emprical Software Engineering.
-
-**T Bi**, B Xia, Z Xing, Q Lu, L Zhu; On the Way to SBOMs: Investigating Design Issues and Solutions in Practice; TOSEM;
-
-B Xia, **T Bi**, Z Xing, Q Lu, L Zhu; An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead; 45th IEEE/ACM International Conference on Software Engineering (ICSE’23);
-
-**T Bi**; Empirical Studies on Software Development Knowledge with A Focus on Quality Attributes; Monash University
+- **T Bi**, G Yu, Q Lu, X Xu, N Van Beest; The Privacy Pillar–A Conceptual Framework for Foundation Model-based Systems; arXiv preprint arXiv:2311.06998.
+- C Chen, J Su, J Chen, Y Wang, **T Bi**, Y Wang, X Lin, T Chen, Z Zheng; When chatgpt meets smart contract vulnerability detection: How far are we?; TOSEM.
+- R Huang, J Chen, Y Wang, T Bi, Z Zheng; An overview of Web3. 0 Technology: Infrastructure, Applications, and Popularity; Emprical Software Engineering.
+- **T Bi**, B Xia, Z Xing, Q Lu, L Zhu; On the Way to SBOMs: Investigating Design Issues and Solutions in Practice; TOSEM;
+- B Xia, **T Bi**, Z Xing, Q Lu, L Zhu; An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead; 45th IEEE/ACM International Conference on Software Engineering (ICSE’23);
+- **T Bi**; Empirical Studies on Software Development Knowledge with A Focus on Quality Attributes; Monash University
 
 ### 2022
 
-**T Bi**, X Xia, D Lo, J Grundy, T Zimmermann, D Ford; Accessibility in software practice: A practitioner’s perspective; ACM Transactions on Software Engineering and Methodology (TOSEM) 31 (4), 1-26;
-
-L Wijerathna, A Aleti,**T Bi**; A Tang; Mining and relating design contexts and design patterns from Stack Overflow; Empirical Software Engineering 27, 1-53;
-
-**T Bi**, W Ding, P Liang, A Tang; Architecture information communication in two OSS projects: The why, who, when, and what; ournal of Systems and Software 181, 111035;
-
-**T Bi**, X Xia, D Lo, A Aleti; A First Look at Accessibility Issues in Popular GitHub Projects; International Conference on Software Maintenance and Engineering, 2022;
-
-**T Bi**, P Liang, A Tang, X Xia; Mining architecture tactics and quality attributes knowledge in Stack Overflow; Journal of Systems and Software 180, 111005;
+- **T Bi**, X Xia, D Lo, J Grundy, T Zimmermann, D Ford; Accessibility in software practice: A practitioner’s perspective; ACM Transactions on Software Engineering and Methodology (TOSEM) 31 (4), 1-26;
+- L Wijerathna, A Aleti,**T Bi**; A Tang; Mining and relating design contexts and design patterns from Stack Overflow; Empirical Software Engineering 27, 1-53;
+- **T Bi**, W Ding, P Liang, A Tang; Architecture information communication in two OSS projects: The why, who, when, and what; ournal of Systems and Software 181, 111035;
+- **T Bi**, X Xia, D Lo, A Aleti; A First Look at Accessibility Issues in Popular GitHub Projects; International Conference on Software Maintenance and Engineering, 2022;
+- **T Bi**, P Liang, A Tang, X Xia; Mining architecture tactics and quality attributes knowledge in Stack Overflow; Journal of Systems and Software 180, 111005;
 
 ### 2021
 
-**T Bi**, X Xia, D Lo, J Grundy, T Zimmermann; An empirical study of release note production and usage in practice; IEEE Transactions on Software Engineering 48 (6), 1834-1852;
-
-
-**T Bi**, W Ding, P Liang, A Tang, Architecture information communication in two OSS projects: The why, who, when, and what; Journal of Systems and Software 181, 111035.
+- **T Bi**, X Xia, D Lo, J Grundy, T Zimmermann; An empirical study of release note production and usage in practice; IEEE Transactions on Software Engineering 48 (6), 1834-1852;
+-**T Bi**, W Ding, P Liang, A Tang, Architecture information communication in two OSS projects: The why, who, when, and what; Journal of Systems and Software 181, 111035.
 
 ### 2020
 
-**T Bi**, P Liang, A Tang; Architecture patterns, quality attributes, and design contexts: How developers design with them; 2018 25th Asia-Pacific Software Engineering Conference (APSEC), 49-58, 2018.
-
-**T Bi**, P Liang, A Tang, C Yang; A systematic mapping study on text analysis techniques in software architecture, Journal of Systems and Software 144, 533-558.
-
-C Yang, P Liang, P Avgeriou, U Eliasson, R Heldal, P Pelliccione, **T Bi**; An industrial case study on an architectural assumption documentation framework, Journal of Systems and Software 134, 190-210.
+- **T Bi**, P Liang, A Tang; Architecture patterns, quality attributes, and design contexts: How developers design with them; 2018 25th Asia-Pacific Software Engineering Conference (APSEC), 49-58, 2018.
+- **T Bi**, P Liang, A Tang, C Yang; A systematic mapping study on text analysis techniques in software architecture, Journal of Systems and Software 144, 533-558.
+- C Yang, P Liang, P Avgeriou, U Eliasson, R Heldal, P Pelliccione, **T Bi**; An industrial case study on an architectural assumption documentation framework, Journal of Systems and Software 134, 190-210.
 
 ## Profossional Severice
 > - ICSE’ SEIS, 2024, PC member
