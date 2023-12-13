@@ -4,7 +4,7 @@ title: Dr. Tingting Bi
 logo: /assets:img/1702422258723.jpg
 #show_downloads: true
 
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
-remote_theme: pages-themes/leap-day@v0.2.0
+#remote_theme: pages-themes/leap-day@v0.2.0
 
