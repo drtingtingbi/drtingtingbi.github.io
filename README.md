@@ -4,7 +4,7 @@
 
 ## About me
 
-> I’m a research scienest at Data61, CSIRO; currently, I’m a lecturer (a.k.a. Assistant Professor) at Univerisity of Western Australia (UWA).
+> I’m a research scienest at Data61, CSIRO; currently, I’m also a lecturer (a.k.a. Assistant Professor) at Univerisity of Western Australia (UWA).
 > 
 > I hold a PhD degree from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more.
 
