@@ -1,5 +1,3 @@
-![image](https://github.com/drtingtingbi/drtingtingbi.github.io/assets/69332098/9dab70c1-f035-4d48-a437-15c2a6a69523)![image](https://github.com/drtingtingbi/drtingtingbi.github.io/assets/69332098/625615f7-c449-4b49-8029-c34d564d4da7)![image](https://github.com/drtingtingbi/drtingtingbi.github.io/assets/69332098/0fd0b01f-8301-4b64-8a17-5aa2b81bfe78)
-
 # Tingting Bi's Homepage
 
 ## About me
