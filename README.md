@@ -67,6 +67,7 @@
 > - CSIRO Top-up PhD Scholarship, Australia, 2019-2022
 > - Monash Univerisity full PhD Scholarship, Australia, 2019-2022
 
+***
 
 ## Life
 > I prioritize life and family over work. Outside of my professional life, I find fulfillment in activities like rock climbing, kiteboarding, and snowboarding amidst nature. Engaging in these pursuits not only refreshes my mind but also keeps me active and positive, contributing to a well-rounded and balanced lifestyle.
