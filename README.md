@@ -4,14 +4,16 @@
 
 ## About me
 
-I’m a research scienest at Data61, CSIRO; currently, I’m a lecturer (a.k.a. Assistant Professor) at Univerisity of Western Australia (UWA).
-
-I hold a PhD degree from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more.
+> I’m a research scienest at Data61, CSIRO; currently, I’m a lecturer (a.k.a. Assistant Professor) at Univerisity of Western Australia (UWA).
+> 
+> I hold a PhD degree from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more.
 
 ## News
-I am consistently on accepting dedicated PhD students who are interested in collaborating with me. If you are keen to explore this opportunity, kindly send me your CV at Tingting.Bi@uwa.edu.au
+> I am consistently on accepting dedicated PhD students who are interested in collaborating with me. If you are keen to explore this opportunity, kindly send me your CV at Tingting.Bi@uwa.edu.au
 
 ## Publications
+
+* The full pulications can be found at [Google Scholar](https://scholar.google.com/citations?user=hE9wbMwAAAAJ&hl=en)
 **T Bi**, G Yu, Q Lu, X Xu, N Van Beest; The Privacy Pillar–A Conceptual Framework for Foundation Model-based Systems; arXiv preprint arXiv:2311.06998.
 
 C Chen, J Su, J Chen, Y Wang, **T Bi**, Y Wang, X Lin, T Chen, Z Zheng; When chatgpt meets smart contract vulnerability detection: How far are we?; TOSEM.
@@ -38,29 +40,23 @@ L Wijerathna, A Aleti,**T Bi**; A Tang; Mining and relating design contexts and 
 
 **T Bi**, P Liang, A Tang; Architecture patterns, quality attributes, and design contexts: How developers design with them; 2018 25th Asia-Pacific Software Engineering Conference (APSEC), 49-58, 2018
 
-The full pulications can be found at https://scholar.google.com/citations?hl=en&user=hE9wbMwAAAAJ&view_op=list_works&sortby=pubdate
+
 
 ## Profossional Severice
-ICSE’ SEIS, 2024, PC member
-
-Internetware, 2023, PC member
-
-ICSE’ Demo, 2023, PC member
-
-BlockSys， mian track, 2023, PC member
-
-SANER, main track, 2022, PC member
+> - ICSE’ SEIS, 2024, PC member
+> - Internetware, 2023, PC member
+> - ICSE’ Demo, 2023, PC member
+> - BlockSys， mian track, 2023, PC member
+> - SANER, main track, 2022, PC member
 
 ## Talks & Techning
 ### Invited Speaker
-ChinaSoft, Shanghai, 2023.12
+> ChinaSoft, Shanghai, 2023.12
 
 ### Teachning Units
-FIT3077, Software Architecture Design, 2020-2023;
-
-FIT2107, Software Quality and Testing, 2020-2023;
-
-FIT2099, Object oriented design and implementation, 2021-2023;
+> - FIT3077, Software Architecture Design, 2020-2023;
+> - FIT2107, Software Quality and Testing, 2020-2023;
+> - FIT2099, Object oriented design and implementation, 2021-2023;
 
 ## Life
-I prioritize life and family over work. Outside of my professional life, I find fulfillment in activities like rock climbing, kiteboarding, and snowboarding amidst nature. Engaging in these pursuits not only refreshes my mind but also keeps me active and positive, contributing to a well-rounded and balanced lifestyle.
+> I prioritize life and family over work. Outside of my professional life, I find fulfillment in activities like rock climbing, kiteboarding, and snowboarding amidst nature. Engaging in these pursuits not only refreshes my mind but also keeps me active and positive, contributing to a well-rounded and balanced lifestyle.
