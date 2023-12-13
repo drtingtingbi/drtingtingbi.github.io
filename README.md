@@ -52,8 +52,8 @@
 
 ## Talks & Techning
 ### Invited Speaker
-> ChinaSoft, Shanghai, 2023.12
-> Seminar talk, Concordia Univeristy, Montreal, 2023. 05
+> - ChinaSoft, Shanghai, 2023.12
+> - Seminar talk, Concordia Univeristy, Montreal, 2023. 05
 
 ### Teachning Units
 > - FIT3077, Software Architecture Design, 2020-2023;
