@@ -17,7 +17,7 @@
 
 ### 2023
 
-- **T Bi**, G Yu, Q Lu, X Xu, N Van Beest; The Privacy Pillar–A Conceptual Framework for Foundation Model-based Systems; arXiv preprint arXiv:2311.06998.
+- **T Bi**, G Yu, Q Lu, X Xu, N Van Beest; The Privacy Pillar–A Conceptual Framework for Foundation Model-based Systems; IEEE Software; [Link](https://arxiv.org/pdf/2311.06998.pdf).
 - C Chen, J Su, J Chen, Y Wang, **T Bi**, Y Wang, X Lin, T Chen, Z Zheng; When chatgpt meets smart contract vulnerability detection: How far are we?; TOSEM.
 - R Huang, J Chen, Y Wang, T Bi, Z Zheng; An overview of Web3. 0 Technology: Infrastructure, Applications, and Popularity; Emprical Software Engineering.
 - **T Bi**, B Xia, Z Xing, Q Lu, L Zhu; On the Way to SBOMs: Investigating Design Issues and Solutions in Practice; TOSEM;
