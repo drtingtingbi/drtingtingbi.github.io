@@ -53,11 +53,20 @@
 ## Talks & Techning
 ### Invited Speaker
 > ChinaSoft, Shanghai, 2023.12
+> Seminar talk, Concordia Univeristy, Montreal, 2023. 05
 
 ### Teachning Units
 > - FIT3077, Software Architecture Design, 2020-2023;
 > - FIT2107, Software Quality and Testing, 2020-2023;
 > - FIT2099, Object oriented design and implementation, 2021-2023;
+
+## Selected Honours
+
+> - Distinguished reviewe, Internetware, 2023
+> - Academic Excellence Scholarship, Australia 2022
+> - CSIRO Top-up PhD Scholarship, Australia, 2019-2022
+> - Monash Univerisity full PhD Scholarship, Australia, 2019-2022
+
 
 ## Life
 > I prioritize life and family over work. Outside of my professional life, I find fulfillment in activities like rock climbing, kiteboarding, and snowboarding amidst nature. Engaging in these pursuits not only refreshes my mind but also keeps me active and positive, contributing to a well-rounded and balanced lifestyle.
