@@ -42,7 +42,7 @@
 - C Yang, P Liang, P Avgeriou, U Eliasson, R Heldal, P Pelliccione, **T Bi**; An industrial case study on an architectural assumption documentation framework, Journal of Systems and Software 134, 190-210, **CORE A**; [Link](https://www.sciencedirect.com/science/article/pii/S0164121217301966).
 
 ## Profossional Service
-> - ICSE’s SEIS, 2024, PC member
+> - ICSE’s Software Engineering in Society track, 2024, PC member
 > - ESEC/FSE's Demonstration track, 2024, PC member
 > - Internetware, Main track, 2023, PC member
 > - ICSE’s Demonstration track, 2023, PC member
@@ -58,7 +58,7 @@
 ### Teaching Units
 > - FIT3077, Software Architecture Design, 2020-2023;
 > - FIT2107, Software Quality and Testing, 2020-2023;
-> - FIT2099, Object-oriented design and implementation, 2021-2023;
+> - FIT2099, Object-oriented Design and Implementation, 2021-2023;
 
 ## Selected Honours & Awards
 
@@ -66,6 +66,8 @@
 > - Academic Excellence Scholarship, Australia 2022
 > - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
 > - Monash Univerisity full PhD Scholarship, Australia, 2018-2021
+> - Government-sponsored Overseas Study Scholarship, Australia, 2016-2018
+> - National Scholarship for Graduate Excellence, China, 2015
 
 ***
 
