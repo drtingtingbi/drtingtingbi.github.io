@@ -62,10 +62,10 @@
 
 ## Selected Honours & Awards
 
-> - Distinguished reviewer, Internetware, 2023
+> - Distinguished Reviewer, Internetware, 2023
 > - Academic Excellence Scholarship, Australia 2022
 > - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
-> - Monash Univerisity full PhD Scholarship, Australia, 2018-2021
+> - Monash Univerisity Full PhD Scholarship, Australia, 2018-2021
 > - Government-sponsored Overseas Study Scholarship, Australia, 2016-2018
 > - National Scholarship for Graduate Excellence, China, 2015
 
