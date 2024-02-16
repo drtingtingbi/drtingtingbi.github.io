@@ -10,6 +10,7 @@
 > I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are keen to explore this opportunity, kindly send me your CV at Tingting.Bi@uwa.edu.au
 
 ## Profossional Service
+> - ICLR'LLMAgent track, 2024, PC member
 > - ICSE's Industry track, 2024, PC memeber
 > - ICSE’s Software Engineering in Society track, 2024, PC member
 > - ESEC/FSE's Demonstration track, 2024, PC member
