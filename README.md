@@ -13,7 +13,7 @@
 > 
 > I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday, 2024.
 > 
-> I'm guest lectureing at Academies Australasia Polytechnic.
+> I'm guest lectureing at Academies Australasia Polytechnic, 2024.
 
 ## Profossional Service
 > - ICLR'LLMAgent track, 2024, PC member
