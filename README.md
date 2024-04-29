@@ -10,6 +10,8 @@
 
 ## News
 > I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are keen to explore this opportunity, kindly send me your CV at Tingting.Bi@uwa.edu.au
+> I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday, 2024.
+> I'm guest lectureing at Academies Australasia Polytechnic.
 
 ## Profossional Service
 > - ICLR'LLMAgent track, 2024, PC member
@@ -27,6 +29,10 @@
 ## Selective Publications
 
 * The full publications can be found at [Google Scholar](https://scholar.google.com/citations?user=hE9wbMwAAAAJ&hl=en)
+
+#### 2024  
+
+- G Yu, X Wang, Q Wang, **T Bi**, Y Dong, RP Liu, N Georgalas, A Reeves Toward Web3 Applications: Easing the Access and Transition; IEEE Transactions on Computational Social Systems; [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10505933).
 
 #### 2023
 
