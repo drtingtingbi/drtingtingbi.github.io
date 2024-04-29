@@ -10,7 +10,9 @@
 
 ## News
 > I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are keen to explore this opportunity, kindly send me your CV at Tingting.Bi@uwa.edu.au
+> 
 > I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday, 2024.
+> 
 > I'm guest lectureing at Academies Australasia Polytechnic.
 
 ## Profossional Service
