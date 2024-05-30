@@ -34,8 +34,8 @@
 * The full publications can be found at [Google Scholar](https://scholar.google.com/citations?user=hE9wbMwAAAAJ&hl=en)
 
 #### 2024  
-
-- G Yu, X Wang, Q Wang, **T Bi**, Y Dong, RP Liu, N Georgalas, A Reeves Toward Web3 Applications: Easing the Access and Transition; IEEE Transactions on Computational Social Systems; [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10505933).
+- H Wang, Z Gao, **T Bi**, J Grundy, X Wang, M Wu, X Yang. What Makes a Good TODO Comment? ACM Transactions on Software Engineering and Methodology; [link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dl.acm.org/doi/pdf/10.1145/3664811).
+- G Yu, X Wang, Q Wang, **T Bi**, Y Dong, RP Liu, N Georgalas, A Reeves. Toward Web3 Applications: Easing the Access and Transition; IEEE Transactions on Computational Social Systems; [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10505933).
 
 #### 2023
 
