@@ -73,6 +73,7 @@
 > - Seminar talk, Concordia Univeristy, Montreal, 2023. 05
 
 ### Teaching Units
+> - CITS4401/3301, Software Requirements and Design, S1, 2024;
 > - FIT3077, Software Architecture Design, 2020-2023;
 > - FIT2107, Software Quality and Testing, 2020-2023;
 > - FIT2099, Object-oriented Design and Implementation, 2021-2023;
