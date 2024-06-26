@@ -2,7 +2,7 @@
 
 ## About me
 
-> I’m a **lecturer** (a.k.a. Assistant Professor) at the Univerisity of Western Australia (UWA).
+> I’m a tenure-track **lecturer** (a.k.a. Assistant Professor) at the Univerisity of Western Australia (UWA).
 >
 > Before I joined UWA, I was a **research scientist** at Data61, CSIRO;
 > 
@@ -73,11 +73,11 @@
 > - Seminar talk, Concordia Univeristy, Montreal, 2023. 05
 
 ### Teaching Units
-> - CITS4401/3301, Software Requirements and Design, S1, 2024;
-> - CITS5206, Information Technology Capstone Project, S2, 2024
-> - FIT3077, Software Architecture Design, S1 2020-2023;
-> - FIT2107, Software Quality and Testing, S2, 2020-2023;
-> - FIT2099, Object-oriented Design and Implementation, S1&S2, 2021-2023;
+> - CITS4401/3301, Software Requirements and Design, S1, 2024, UWA;
+> - CITS5206, Information Technology Capstone Project, S2, 2024, UWA;
+> - FIT3077, Software Architecture Design, S1 2020-2023, Monash Univerisity;
+> - FIT2107, Software Quality and Testing, S2, 2020-2023, Monash Univerisiy;
+> - FIT2099, Object-oriented Design and Implementation, S1&S2, 2021-2023, Monash Univerisity.
 
 ## Selected Honours & Awards
 
@@ -86,7 +86,7 @@
 > - Academic Excellence Scholarship, Australia 2022
 > - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
 > - Monash Univerisity Full PhD Scholarship, Australia, 2018-2021
-> - Government-sponsored Overseas Study Scholarship, Australia, 2012-2018
+> - Government-sponsored Overseas Study Full Scholarship, Australia, 2012-2018
 > - National Scholarship for Graduate Excellence, China, 2012
 
 
