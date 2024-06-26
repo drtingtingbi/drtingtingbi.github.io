@@ -6,12 +6,12 @@
 >
 > Before I joined UWA, I was a **research scientist** at Data61, CSIRO;
 > 
-> I hold a PhD degree from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more.
+> I obtained my PhD degree from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more.
 
 ## News
 > I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are keen to explore this opportunity, kindly send me your CV at Tingting.Bi@uwa.edu.au
 > 
-> I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday, 2024.
+> I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday of 2024.
 > 
 > I'm delivering the guest lectures at Academies Australasia Polytechnic, S1 2024.
 
@@ -74,18 +74,21 @@
 
 ### Teaching Units
 > - CITS4401/3301, Software Requirements and Design, S1, 2024;
-> - FIT3077, Software Architecture Design, 2020-2023;
-> - FIT2107, Software Quality and Testing, 2020-2023;
-> - FIT2099, Object-oriented Design and Implementation, 2021-2023;
+> - CITS5206, Information Technology Capstone Project, S2, 2024
+> - FIT3077, Software Architecture Design, S1 2020-2023;
+> - FIT2107, Software Quality and Testing, S2, 2020-2023;
+> - FIT2099, Object-oriented Design and Implementation, S1&S2, 2021-2023;
 
 ## Selected Honours & Awards
 
+> - Excellence Teaching Award, UWA, 2024
 > - Distinguished Reviewer, Internetware, 2023
 > - Academic Excellence Scholarship, Australia 2022
 > - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
 > - Monash Univerisity Full PhD Scholarship, Australia, 2018-2021
 > - Government-sponsored Overseas Study Scholarship, Australia, 2016-2018
 > - National Scholarship for Graduate Excellence, China, 2015
+
 
 ***
 
