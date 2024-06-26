@@ -86,8 +86,8 @@
 > - Academic Excellence Scholarship, Australia 2022
 > - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
 > - Monash Univerisity Full PhD Scholarship, Australia, 2018-2021
-> - Government-sponsored Overseas Study Scholarship, Australia, 2016-2018
-> - National Scholarship for Graduate Excellence, China, 2015
+> - Government-sponsored Overseas Study Scholarship, Australia, 2012-2018
+> - National Scholarship for Graduate Excellence, China, 2012
 
 
 ***
