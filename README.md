@@ -16,7 +16,7 @@
 > I'm delivering the guest lectures at Academies Australasia Polytechnic, S1 2024.
 
 ## Profossional Service
-> - ICSE main track, 2025, PC member
+> - ICSE Main track, 2025, PC member
 > - ICLR'LLMAgent track, 2024, PC member
 > - ICSE's Industry track, 2024, PC member
 > - ICSE’s Software Engineering in Society track, 2024, PC member
