@@ -3,9 +3,9 @@ title: "the University of Western Australia"
 collection: teaching
 type: "Master student course"
 #permalink: 
-venue: ""
-date: 
-location: ""
+venue: "Australia"
+date: 2023 & 2024
+depermant: CSSE
 ---
 
 - CITS4401/3301, Software Requirements and Design, S1, 2024, UWA;Unit Link
