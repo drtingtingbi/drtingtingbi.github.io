@@ -2,7 +2,7 @@
 title: "Teaching experience at the Univerisity of Western Australia"
 collection: teaching
 type: "Master units"
-permalink: /teaching/2023&2024
+permalink: /
 venue: "Computer Science and Software Engineering Department"
 date: 2023 & 2024
 location: "Australia"
