@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "UWA"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master courses"
+permalink: /teaching/2024-s1
+venue: "CSSE Department"
+date: 2024-S1
+location: "Australia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
