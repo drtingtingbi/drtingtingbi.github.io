@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience at the Univerisity of Western Australia"
 collection: teaching
-type: "Undergraduate course"
+type: "Master units"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Computer Science and Software Engineering Department"
+date: 2023 & 2024
+location: "Australia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
