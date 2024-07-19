@@ -12,7 +12,7 @@ title                    : "Dr Tingting Bi's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://drtingtingbi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tingting Bi"
+  pronouns         : # "she/her"  
+  bio              : "Lecturer & Researcher"
+  location         : "Australia"
+  employer         : "the Univerisity of Western Australia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tingting.bi@uwa.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
