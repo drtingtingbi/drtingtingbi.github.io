@@ -1,18 +1,14 @@
 ---
-title: "the University of Western Australia"
+title: "Teaching experience 1"
 collection: teaching
-type: "Master student course"
-#permalink: 
-venue: "Australia"
-date: 2023 & 2024
-Department: CSSE
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-- CITS4401/3301, Software Requirements and Design, S1, 2024, UWA;Unit Link
-- CITS5206, Information Technology Capstone Project, S2, 2024, UWA; Unit Link
-- FIT3077, Software Architecture Design, S1 2020-2023, Monash Univerisity;
-- FIT2107, Software Quality and Testing, S2, 2020-2023, Monash Univerisiy;
-- FIT2099, Object-oriented Design and Implementation, S1&S2, 2021-2023, Monash Univerisity
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
