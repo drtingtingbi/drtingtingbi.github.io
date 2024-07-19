@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "the University of Western Australia"
 collection: teaching
-type: "Undergraduate course"
+type: "Master student course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
