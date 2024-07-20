@@ -8,8 +8,8 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-CITS5026, IT Capstone Project.
-CITS4401/3301, Software Requirements and Design.
+- CITS5026, IT Capstone Project.
+- CITS4401/3301, Software Requirements and Design.
 
 Heading 1
 ======
