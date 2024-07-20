@@ -4,7 +4,7 @@ collection: teaching
 type: "Master courses"
 permalink: /teaching/2024-s1
 venue: "CSSE Department"
-date: 2024-S1
+date: 2024
 location: "Australia"
 ---
 
