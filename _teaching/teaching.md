@@ -8,13 +8,11 @@ date: 2024
 location: "Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+
+CITS5206 IT Capstone Unit, UWA
 ======
 
-Heading 2
+CITS4401/3301 Software Requirements and Design, UWA
 ======
 
-Heading 3
-======
