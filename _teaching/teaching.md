@@ -8,8 +8,8 @@ date: 2024-01-01
 location: "City, Country"
 ---
 
-- ## CITS5026, IT Capstone Project, S1, 2024
-- ## CITS4401/3301, Software Requirements and Design, S2, 2024
+- **CITS5026, IT Capstone Project, S1, 2024**
+- **CITS4401/3301, Software Requirements and Design, S2, 2024**
 
 Heading 1
 ======
