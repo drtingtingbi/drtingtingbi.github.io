@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "The University of Western Australia"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "The University of Western Australia, Software Engineering and Computer Science"
+venue: ", Software Engineering and Computer Science"
 date: 2014-01-01
 location: "City, Country"
 ---
