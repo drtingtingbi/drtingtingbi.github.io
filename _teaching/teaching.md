@@ -1,14 +1,15 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Master course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "The University of Western Australia, Software Engineering and Computer Science"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+CITS5026, IT Capstone Project.
+CITS4401/3301, Software Requirements and Design.
 
 Heading 1
 ======
