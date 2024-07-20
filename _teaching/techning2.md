@@ -3,7 +3,7 @@ title: "Monash University"
 collection: teaching
 type: "Undergraduate and Master courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Monash Univeristy, Faculty of Information and Technology"
+venue: "Monash University, Faculty of Information and Technology"
 date: 2023-01-01
 location: "City, Country"
 ---
