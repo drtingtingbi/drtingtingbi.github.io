@@ -15,7 +15,7 @@ I’m a **tenure-track lecturer** (a.k.a. Assistant Professor) at the Univerisit
 ### News!
 I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are interested in exploring this opportunity, send me your CV at Tingting.Bi@uwa.edu.au. 
 - I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday of 2024.
-- I'm delivering the guest lectures at Academies Australasia Polytechnic, S1 2024.
+- I'm delivering the guest lectures at Academies Australasia Polytechnic, S1$S2, 2024.
 
 ### Profossional Service
 
