@@ -32,8 +32,8 @@ Journal of Software: Evolution and Process, Invited Reviewer
 IEEE Transactions on Software Engineering, Invited Reviewer
 
 ### Selected Honours & Awards
-Distinguished Reviewer, FSE, 2024
-Distinguished Reviewer, Internetware, 2023
+**Distinguished Reviewer**, FSE, 2024
+**Distinguished Reviewer**, Internetware, 2023
 Excellence Teaching Award, Monash University, 2022
 Academic Excellence Scholarship, Australia 2022
 CSIRO Top-up PhD Scholarship, Australia, 2018-2021
