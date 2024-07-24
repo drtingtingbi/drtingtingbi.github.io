@@ -2,7 +2,7 @@
 title: "Professional Service"
 collection: professional service
 type: ""
-permalink: /professionals/service
+permalink: /professionals/
 venue: ""
 date: 2014-01-01
 location: "City, Country"
