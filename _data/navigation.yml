@@ -3,7 +3,7 @@ main:
 
 
   - title: "Publications"
-    url: https://scholar.google.com.au/citations?hl=en&user=0ixOsn8AAAAJ&view_op=list_works&sortby=pubdate
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
