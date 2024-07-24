@@ -17,20 +17,6 @@ I am consistently accepting dedicated PhD students who are interested in collabo
 - I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday of 2024.
 - I'm delivering the guest lectures at Academies Australasia Polytechnic, S1$S2, 2024.
 
-### Professional Service
-
-- ICSE Main track, 2025, PC member
-- ICLR'LLMAgent track, 2024, PC member
-- ICSE's Industry track, 2024, PC member
-- ICSE’s Software Engineering in Society track, 2024, PC member
-- ESEC/FSE's Demonstration track, 2024, PC member
-- Internetware, Main track, 2023, PC member
-- ICSE’s Demonstration track, 2023, PC member
-- BlockSys, Mian track, 2023, PC member
-- SANER, Main track, 2022, PC member
-- Empirical Software Engineering, Invited Reviewer
-- Journal of Software: Evolution and Process, Invited Reviewer
-- IEEE Transactions on Software Engineering, Invited Reviewer
 
 ### Selected Honours & Awards
 - **Distinguished Reviewer**, FSE, 2024
