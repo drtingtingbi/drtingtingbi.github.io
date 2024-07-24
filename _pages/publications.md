@@ -24,3 +24,17 @@ IEEE Transactions on Computational Social Systems
 - An empirical study on software bill of materials: Where we stand and the road ahead. B Xia, ***T Bi***, Z Xing, Q Lu, L Zhu, 2023 IEEE/ACM 45th International Conference on Software Engineering
 - Leveraging architectural approaches in Web3 applications-a DAO perspective focused G Yu, Q Wang, ***T Bi***, S Chen, X Xu, 2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 1-6
 - On the way to sboms: Investigating design issues and solutions in practice. ***T Bi***, B Xia, Z Xing, Q Lu, L Zhu, ACM Transactions on Software Engineering and Methodology
+- Accessibility in software practice: A practitioner’s perspective, ***T Bi***, X Xia, D Lo, J Grundy, T Zimmermann, D Ford, ACM Transactions on Software Engineering and Methodology (TOSEM) 31 (4), 1-26
+
+## 2022
+- Predictive models in software engineering: Challenges and opportunities, Y Yang, X Xia, D Lo, ***T Bi***, J Grundy, X Yang, ACM Transactions on Software Engineering and Methodology (TOSEM) 31 (3), 1-72
+- Mining and relating design contexts and design patterns from Stack Overflow，W Laksri, A Aldeida, ***B Tingting***, A Tang， Empirical Software Engineering 27 (1)
+
+## 2021
+- Architecture information communication in two OSS projects: The why, who, when, and what，***T Bi***, W Ding, P Liang, A Tang， Journal of Systems and Software 181, 111035	11	2021
+- Mining architecture tactics and quality attributes knowledge in Stack Overflow，***T Bi***, P Liang, A Tang, X Xia，Journal of Systems and Software 180, 111005
+- A first look at accessibility issues in popular github projects
+- T Bi, X Xia, D Lo, A Aleti， 2021 IEEE International Conference on Software Maintenance and Evolution, 2021
+- An empirical study of release note production and usage in practice, ***T Bi***, X Xia, D Lo, J Grundy, T Zimmermann, IEEE Transactions on Software Engineering 48 (6), 1834-1852
+
+
