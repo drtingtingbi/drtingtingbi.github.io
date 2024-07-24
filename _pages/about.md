@@ -17,7 +17,7 @@ I am consistently accepting dedicated PhD students who are interested in collabo
 - I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday of 2024.
 - I'm delivering the guest lectures at Academies Australasia Polytechnic, S1$S2, 2024.
 
-### Profossional Service
+### Professional Service
 
 - ICSE Main track, 2025, PC member
 - ICLR'LLMAgent track, 2024, PC member
