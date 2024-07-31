@@ -10,18 +10,18 @@ redirect_from:
 
 About me
 ======
-I’m a **tenure-track lecturer** (a.k.a. Assistant Professor) at the Univerisity of Western Australia (UWA). Before I joined UWA, I was a research scientist at Data61, CSIRO; I obtained my PhD degree from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more.
+I’m a **tenure-track lecturer** (a.k.a. Assistant Professor) at the Univerisity of Western Australia (UWA). Before I joined UWA, I was a research scientist at Data61, CSIRO; I obtained my PhD degree from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more. 
 
 ### News!
-I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are interested in exploring this opportunity, send me your CV at Tingting.Bi@uwa.edu.au. 
+I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are interested in exploring this opportunity, send me your CV at Tingting.Bi@uwa.edu.au. :blush:
 - I'll deliver guest lectures at Northwestern Polytechnical University during the summer holiday of 2024.
 - I'm delivering the guest lectures at Academies Australasia Polytechnic, S1 and S2, 2024.
 
 
 ### Selected Honours & Awards
-- **Distinguished Reviewer**, FSE, 2024
-- **Distinguished Reviewer**, Internetware, 2023
-- Excellence Teaching Award, Monash University, 2022
+- **Distinguished Reviewer**, FSE, 2024 :trophy:
+- **Distinguished Reviewer**, Internetware, 2023 :trophy:
+- Excellence Teaching Award, Monash University, 2022 :trophy:
 - Academic Excellence Scholarship, Australia 2022
 - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
 - Monash Univerisity Full PhD Scholarship, Australia, 2018-2021
