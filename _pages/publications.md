@@ -12,7 +12,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 
 ## 2025
 
-- Towards Better Answers: Automated Stack Overflow Post Updating. Y Mai, Z Gao, H Wang, ***T Bi***, X Hu, X Xia, J Sun. the 47th IEEE/ACM International Conference on Software Engineering (ICSE'25), Accepted,**CoreA***. 
+- Towards Better Answers: Automated Stack Overflow Post Updating. Y Mai, Z Gao, H Wang, ***T Bi***, X Hu, X Xia, J Sun. the 47th IEEE/ACM International Conference on Software Engineering (ICSE'25), Accepted, **CoreA***. 
   
 ## 2024
 - On the way to sboms: Investigating design issues and solutions in practice. ***T Bi***, B Xia, Z Xing, Q Lu, L Zhu ACM Transactions on Software Engineering and Methodology 33 (6), 1-25, **CoreA***.
