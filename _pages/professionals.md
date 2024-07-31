@@ -16,4 +16,7 @@ author_profile: true
 - SANER, Main track, 2022, PC member
 - Empirical Software Engineering, Invited Reviewer
 - Journal of Software: Evolution and Process, Invited Reviewer
+- ACM Transactions on Software Engineering and Methodology, Invited Reviewer
 - IEEE Transactions on Software Engineering, Invited Reviewer
+- Automated Software Engineering, Invited Reviewer
+- ACM Computing Surveys, Invited Reviewer
