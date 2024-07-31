@@ -11,4 +11,5 @@ main:
   - title: "Professional Services"
     url: /professionals
     
-
+  - title: "Life"
+    url:/life
