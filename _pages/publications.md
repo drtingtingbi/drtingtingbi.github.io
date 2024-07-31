@@ -12,7 +12,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 
 ## 2025
 
-- Towards Better Answers: Automated Stack Overflow Post Updating. Yubo Mai, Zhipeng Gao, Haoye Wang, ***Tingting Bi***, Xing Hu, Xin Xia, Jinling Sun. the 47th IEEE/ACM International
+- Towards Better Answers: Automated Stack Overflow Post Updating. Y Mai, Z Gao, H Wang, ***T Bi***, X Hu, X Xia, J Sun. the 47th IEEE/ACM International
 Conference on Software Engineering (ICSE'25), Accepted. 
   
 ## 2024
