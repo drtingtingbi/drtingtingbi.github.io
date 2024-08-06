@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 - ICSE Main track, 2025, PC member
+- ICSE’s Industry track, 2025, PC member
 - ICLR’LLMAgent track, 2024, PC member
 - ICSE’s Industry track, 2024, PC member
 - ICSE’s Software Engineering in Society track, 2024, PC member
