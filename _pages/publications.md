@@ -20,6 +20,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 IEEE Transactions on Computational Social Systems.
 - [**TOSEM-24**] What Makes a Good TODO Comment? H Wang, Z Gao, ***T Bi***, J Grundy, X Wang, M Wu, X Yang, ACM Transactions on Software Engineering and Methodology, **Core A***.
 - Graph Convolutional Network for Image Restoration: A Survey. T Cheng, ***T Bi***, W Ji, C Tian, Mathematics 12 (13).
+- [**IEEE Blockchain-24**] A Responsibility Pillar: Exploring and Assessing Decentralized Intelligence. Qin Wang, Guangsheng Yu, ***Tingting Bi***, Dilum Bandara, Shipeng Chen, EEE Blockchain 2024.
 
 
 ## 2023
