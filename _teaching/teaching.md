@@ -3,7 +3,7 @@ title: "The University of Western Australia"
 collection: teaching
 type: "Master units"
 permalink: /teaching/2014-spring-teaching-1
-venue: "UWA, the Department of Software Engineering and Computer Science"
+venue: "The Department of Software Engineering and Computer Science, the University of Western Australia"
 date: 2024-01-01
 location: "City, Country"
 ---
