@@ -10,12 +10,12 @@ redirect_from:
 
 About me
 ======
-I’m a **tenure-track lecturer** (a.k.a. Assistant Professor) at the Univerisity of Western Australia (UWA). Before joining UWA, I was a research scientist at Data61, CSIRO; I obtained my PhD from Monash University, where I was fortunate to be mentored by Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more. 
+I’m a **tenure-track lecturer** (a.k.a. Assistant Professor) at the Univerisity of Western Australia (UWA). Before joining UWA, I was a research scientist and research fellow at Data61, CSIRO; I obtained my PhD from Monash University, where I was fortunate to be supervised by Australian Laureate Professor John Grundy. My research interests are centered around software architecture, knowledge engineering, and responsible AI. I’m particularly fascinated by the field of knowledge-based engineering and how human expertise contributes to the process of eliciting requirements, designing, and implementing systems. In addition to my academic pursuits, I actively engage as a Program Committee member and reviewer for prestigious software engineering journals and conferences, including TSE, TOSEM, ICSE, and more. 
 
 ### News!
 I am consistently accepting dedicated PhD students who are interested in collaborating with me. If you are interested in exploring this opportunity, send me your CV at  **Tingting.Bi@uwa.edu.au** 📧
 
-- I delivered guest lectures at Northwestern Polytechnical University during the summer holiday, of 2024.
+- I delivered guest lectures at Northwestern Polytechnical University during the summer term, 2024.
 
 
 ### Selected Honours & Awards 🏆
