@@ -5,6 +5,8 @@ permalink: /professionals/
 author_profile: true
 ---
 
+## Conferences
+
 - ESEC/FSE's Industrial track, 2025, PC member
 - ICSE's Main track, 2025, PC member
 - ICSE’s Industry track, 2025, PC member
@@ -16,10 +18,14 @@ author_profile: true
 - ICSE’s Demonstration track, 2023, PC member
 - BlockSys, Mian track, 2023, PC member
 - SANER, Main track, 2022, PC member
+
+## Journals
+  
 - Empirical Software Engineering, Invited Reviewer
 - Journal of Software: Evolution and Process, Invited Reviewer
 - ACM Transactions on Software Engineering and Methodology, Invited Reviewer
 - IEEE Transactions on Software Engineering, Invited Reviewer
 - Automated Software Engineering, Invited Reviewer
 - ACM Computing Surveys, Invited Reviewer
+- Journal of Systems and Software, Invited Reviewer
 
