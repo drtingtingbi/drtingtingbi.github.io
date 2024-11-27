@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
 - **CITS5026, IT Capstone Project, S2, 2024** 
-- **CITS4401/3301, Software Requirements and Design, S1, 2024**
+- **CITS4401/3301, Software Requirements and Design, S1, 2024** 
 
 Heading 1
 ======
