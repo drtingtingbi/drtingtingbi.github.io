@@ -15,7 +15,7 @@
 --------
 
 
-### Research Project 1: Software Architecture Design for AI-based systems 📝
+### Research Project 1: Software Architecture Design of AI-based systems 📝
 
 <div align="center">
 <table rules="none">
@@ -53,7 +53,7 @@
 
 
 
-### Research topic 3: Responsible AI
+### Research Project 3: Responsible AI
 
 <div align="center">
 <table rules="none">
