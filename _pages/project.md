@@ -24,7 +24,7 @@ author_profile: true
 --------
 
 
-### Research Project 1: Software Architecture Design of AI-based systems 📝
+### Research Project 1: Software Architecture Design of AI-based Systems 📝
 
 <div align="center">
 <table rules="none">
