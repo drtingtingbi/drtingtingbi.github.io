@@ -7,10 +7,10 @@
 ### Our team 👏
 
 
-#### - Prof [John Grundy](https://sites.google.com/site/johncgrundy/), Monash Univerisity
-#### - Prof.& Senior Principal Research Scientist [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/), Data61 CSIRO
+#### - Prof. [John Grundy](https://sites.google.com/site/johncgrundy/), Monash Univerisity
+#### - Prof. & Senior Principal Research Scientist [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/), Data61 CSIRO
 #### - Assitant Prof. [Jiachi Chen](https://jiachi-chen.github.io/), Sun Yat-Sen University
-#### - Assistant Prof. [Zhipeng Gao](https://zpgao.github.io/), Shanghai Institute for Advanced Study of Zhejiang University
+#### - Assistant Prof. [Zhipeng Gao](https://zpgao.github.io/), Zhejiang University
 
 --------
 
