@@ -9,7 +9,7 @@ main:
     url: /teaching/ 
 
   - title: "Projects"
-    url: /project
+    url: /project/
 
   - title: "Professional Services"
     url: /professionals
