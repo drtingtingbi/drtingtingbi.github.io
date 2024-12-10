@@ -6,7 +6,10 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+
+  - title: "Projects"
+    url: /projects
 
   - title: "Professional Services"
     url: /professionals
