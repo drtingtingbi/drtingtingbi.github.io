@@ -54,13 +54,13 @@ author_profile: true
 <p> - Documentation: the importance of maintaining clear, concise, and up-to-date documentation </p>
 </td>
 <td>
-<img src="https://github.com/drtingtingbi/drtingtingbi.github.io/blob/e0a45e2cf91e7905bdd398cab40d2a538310d96e/images/LLMknowledge.png" width="1000" height="200">
+<img src="https://github.com/drtingtingbi/drtingtingbi.github.io/blob/master/images/LLMknowledge.png" width="1000" height="200">
 </td>
 </tr>
 </table>    
 </div>
 
-
+https://github.com/drtingtingbi/drtingtingbi.github.io/blob/master/images/LLMknowledge.png
 
 ### Research Project 3: Responsible AI
 
