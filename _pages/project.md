@@ -54,7 +54,7 @@ author_profile: true
 <p> - Documentation: the importance of maintaining clear, concise, and up-to-date documentation </p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/LLMknowledge.png" width="1000" height="180">
+<img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/LLMknowledge.png" width="985" height="180">
 </td>
 </tr>
 </table>    
