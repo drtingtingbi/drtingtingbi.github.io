@@ -34,8 +34,10 @@
 
 
 
-
 ### Research Project 2: LLMs for Software Engineering Knowledge Management
+
+
+
 
 
 ### Research topic 3: Responsible AI
