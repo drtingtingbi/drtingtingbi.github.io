@@ -55,3 +55,18 @@
 
 ### Research topic 3: Responsible AI
 
+<div align="center">
+<table rules="none">
+<tr>
+<td>
+<p> Responsible AI  </p>
+<p> - Transparency of AI-based system: product-pattern-focused design (SBOM, AIBOM ect) to reduce risks in AI development. </p>
+</td>
+<td>
+<img src="https://github.com/drtingtingbi/drtingtingbi.github.io/blob/master/images/ResAI.png" width="790" height="200">
+</td>
+</tr>
+</table>    
+</div>
+
+
