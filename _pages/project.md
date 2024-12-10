@@ -30,9 +30,9 @@ author_profile: true
 <table rules="none">
 <tr>
 <td>
-<p>  Software architecture design and architectural knowledge mining and management， and quality attributes of the AI-based systems  </p>
-<p> - Mining architecture pattern and tactic and related quality attribute discussions </p>
-<p> - Based on developer mailing lists of OSS projects, extracting communicated architectural information</p>
+<p>  Software architecture design and architectural knowledge mining and management, and quality attributes of the AI-based systems  </p>
+<p> - Mining architecture pattern and tactic and related quality attribute discussions. </p>
+<p> - Based on developer mailing lists of OSS projects, extracting communicated architectural information. </p>
 </td>
 <td>
 <img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/AIarchitecture.png" width="852" height="200">
@@ -49,9 +49,9 @@ author_profile: true
 <table rules="none">
 <tr>
 <td>
-<p> Software development and design productivity  </p>
+<p> Enhancing Productivity in Software Development and Design Processes </p>
 <p> - Technical debt management: Strategies for identifying, prioritizing, and addressing technical debt to maintain long-term code health and productivity. </p>
-<p> - Documentation: the importance of maintaining clear, concise, and up-to-date documentation </p>
+<p> - Documentation: the importance of maintaining clear, concise, and up-to-date documentation. </p>
 </td>
 <td>
 <img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/LLMknowledge.png" width="985" height="150">
@@ -69,7 +69,7 @@ author_profile: true
 <tr>
 <td>
 <p> Responsible AI  </p>
-<p> - Transparency of AI-based system: product-pattern-focused design (SBOM, AIBOM ect) to reduce risks in AI development. </p>
+<p> - Enhancing Transparency in AI Systems: Leveraging Product-Pattern-Focused Design (e.g., SBOM, AIBOM) to Mitigate Risks in AI Development. </p>
 </td>
 <td>
 <img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png" width="790" height="200">
