@@ -72,7 +72,7 @@ author_profile: true
 <p> - Enhancing Transparency in AI Systems: Leveraging Product-Pattern-Focused Design (e.g., SBOM, AIBOM) to Mitigate Risks in AI Development. </p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png" width="790" height="200">
+<img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png" width="920" height="200">
 </td>
 </tr>
 </table>    
