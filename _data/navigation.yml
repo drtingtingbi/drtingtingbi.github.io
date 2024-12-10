@@ -5,11 +5,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/ 
-
   - title: "Projects"
     url: /project/
+
+  - title: "Teaching"
+    url: /teaching/ 
 
   - title: "Professional Services"
     url: /professionals
