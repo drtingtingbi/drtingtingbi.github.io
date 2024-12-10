@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3620093c-92f3-440c-8551-3f0508507887)
+
 ### ***The research question that drives my research works: How can we make AI-based software development not only reliable but also ethical and efficient?***
 
 --------
