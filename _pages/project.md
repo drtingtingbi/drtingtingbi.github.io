@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+
+
 
 ### ***The research question that drives my research works: How can we make AI-based software development not only reliable but also ethical and efficient?***
 
