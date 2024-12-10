@@ -35,12 +35,11 @@ author_profile: true
 <p> - Based on developer mailing lists of OSS projects, extracting communicated architectural information</p>
 </td>
 <td>
-<img src="https://github.com/drtingtingbi/drtingtingbi.github.io/blob/master/images/AIarchitecture.png" width="852" height="200">
+<img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/AIarchitecture.png" width="852" height="200">
 </td>
 </tr>
 </table>    
 </div>
-
 
 
 ### Research Project 2: LLMs for Software Engineering Knowledge Management
