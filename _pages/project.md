@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/3620093c-92f3-440c-8551-3f0508507887)
 ### ***The research question that drives my research works: How can we make AI-based software development not only reliable but also ethical and efficient?***
 
 --------
@@ -21,12 +21,12 @@
 <table rules="none">
 <tr>
 <td>
-<p>  Software architecture design and architectural knowledge mining and management  </p>
+<p>  Software architecture design and architectural knowledge mining and management， and quality attributes of the AI-based systems  </p>
 <p> - Mining architecture pattern and tactic and related quality attribute discussions </p>
 <p> - Based on developer mailing lists of OSS projects, extracting communicated architectural information</p>
 </td>
 <td>
-<img src="https://github.com/drtingtingbi/drtingtingbi.github.io/blob/master/images/AIarchitecture.png" width="100%" height="100%">
+<img src="https://github.com/drtingtingbi/drtingtingbi.github.io/blob/master/images/AIarchitecture.png" width="852" height="200">
 </td>
 </tr>
 </table>    
@@ -36,7 +36,20 @@
 
 ### Research Project 2: LLMs for Software Engineering Knowledge Management
 
-
+<div align="center">
+<table rules="none">
+<tr>
+<td>
+<p> Software development and design productivity  </p>
+<p> - Technical debt management: Strategies for identifying, prioritizing, and addressing technical debt to maintain long-term code health and productivity. </p>
+<p> - Documentation: the importance of maintaining clear, concise, and up-to-date documentation </p>
+</td>
+<td>
+<img src="https://github.com/drtingtingbi/drtingtingbi.github.io/blob/master/images/LLMknowledge.png" width="1000" height="200">
+</td>
+</tr>
+</table>    
+</div>
 
 
 
