@@ -16,7 +16,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 - [**TCSS-24**] Toward Web3 Applications: Easing the Access and Transition. G Yu, X Wang, Q Wang, ***T Bi***, YF Dong, RP Liu, N Georgalas, A Reeves. IEEE Transactions on Computational Social Systems.
 - [**TOSEM-24**] What Makes a Good TODO Comment? H Wang, Z Gao, ***T Bi***, J Grundy, X Wang, M Wu, X Yang, ACM Transactions on Software Engineering and Methodology, **Core A***.
 - [**TOSEM-24**]When Chatgpt Meets Smart Contract Vulnerability detection: How far Are We? C Chen, J Su, J Chen, Y Wang, ***T Bi***, J Yu, Y Wang, X Lin, T Chen. ACM Transactions on Software Engineering and Methodology, Accepted, **Core A***.
-- [**Mathematics**]Graph Convolutional Network for Image Restoration: A Survey. T Cheng, ***T Bi***, W Ji, C Tian, Mathematics 12 (13).
+- [**Mathematics-24**]Graph Convolutional Network for Image Restoration: A Survey. T Cheng, ***T Bi***, W Ji, C Tian, Mathematics 12 (13).
 - [**IEEE Blockchain-24**] A Responsibility Pillar: Exploring and Assessing Decentralized Intelligence. Q Wang, G Yu, ***T Bi***, D Bandara, S Chen. IEEE Blockchain 2024.
 - [**BCRA-23**] An Overview of WEB3 Technology: Infrastructure, Applications, and Popularity, R Huang, J Chen, Y Wang, ***T Bi***, L Nie, Z Zheng. Blockchain: Research and Applications, 100173.
 - [**ICSE-23**] An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead, B Xia, ***T Bi***, Z Xing, Q Lu, L Zhu. The IEEE/ACM 45th International Conference on Software Engineering, **Core A***.
