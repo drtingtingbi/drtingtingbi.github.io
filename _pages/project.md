@@ -69,7 +69,7 @@ author_profile: true
 <tr>
 <td>
 <p> Responsible AI  </p>
-<p> - Enhancing Transparency in AI Systems: Leveraging Product-Pattern-Focused Design (e.g., SBOM, AIBOM) to Mitigate Risks in AI Development. </p>
+<p> - Enhancing transparency in AI Systems: Leveraging Product-Pattern-Focused Design (e.g., SBOM, AIBOM) to Mitigate Risks in AI Development. </p>
 </td>
 <td>
 <img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png" width="920" height="200">
