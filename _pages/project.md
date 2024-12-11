@@ -30,7 +30,7 @@ author_profile: true
 <table rules="none">
 <tr>
 <td>
-<p>  Software architecture design and architectural knowledge mining and management, and quality attributes of the AI-based systems  </p>
+<p>  Focusing on software architecture design and architectural knowledge mining and management, and quality attributes of the AI-based systems  </p>
 <p> - Mining architecture pattern and tactic and related quality attribute discussions. </p>
 <p> - Based on developer mailing lists of OSS projects, extracting communicated architectural information. </p>
 </td>
