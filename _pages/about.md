@@ -15,7 +15,7 @@ I’m a **tenure-track lecturer** (equivalent to an Assistant Professor in the U
 ### News! 📣📢
 - I'm going to join [the School of Computing and Information Systems](https://cis.unimelb.edu.au/research/computer-science) of [the University of Melbourne](https://cis.unimelb.edu.au/) in early 2025. If you are interested in conducting the PhD with me, please send me your CV at  **Tingting.Bi@unimelb.edu.au** 📧
   
-- If you’re a research student, postdoc, or visiting researcher, feel free to get in touch if you’d like to visit UniMel.
+- If you’re a research student, postdoc, or visiting researcher, feel free to get in touch if you’d like to visit **the University of Melbourne**.
 
 - I was invited to deliver guest lectures at Northwestern Polytechnical University during the summer term, 2024.
 
