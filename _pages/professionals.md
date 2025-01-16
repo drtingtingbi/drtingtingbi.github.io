@@ -7,6 +7,7 @@ author_profile: true
 
 ## Conferences
 
+- ICSA' Main track, 2025, PC member
 - ESEC/FSE's Industrial track, 2025, PC member
 - ICSE's Main track, 2025, PC member
 - ICSE’s Industry track, 2025, PC member
