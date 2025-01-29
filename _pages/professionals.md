@@ -7,7 +7,8 @@ author_profile: true
 
 ## Conferences
 
-- ICSA' Main track, 2025, PC member
+- ICSE's Mian track, 2026, PC member
+- ICSA's Main track, 2025, PC member
 - ESEC/FSE's Industrial track, 2025, PC member
 - ICSE's Main track, 2025, PC member
 - ICSE’s Industry track, 2025, PC member
@@ -15,10 +16,10 @@ author_profile: true
 - ICSE’s Industry track, 2024, PC member
 - ICSE’s Software Engineering in Society track, 2024, PC member
 - ESEC/FSE’s Demonstration track, 2024, PC member
-- Internetware, Main track, 2023, PC member
+- Internetware's Main track, 2023, PC member
 - ICSE’s Demonstration track, 2023, PC member
-- BlockSys, Mian track, 2023, PC member
-- SANER, Main track, 2022, PC member
+- BlockSys's Mian track, 2023, PC member
+- SANER's Main track, 2022, PC member
 
 ## Journals
   
