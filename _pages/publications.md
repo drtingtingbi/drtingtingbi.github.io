@@ -10,6 +10,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 
 ### Selective Papers 
 
+- 【**JSS-25**】MPLinker: Multi-template Prompt-tuning with Adversarial Training for Issue-commit Link Recovery. B Wang, Y Deng, R li, P Liang, and ***T Bi***. Journal of Systems and Software, Accepted. 
 - [**ICSE'RAIE-25**] Privacy in Foundation Models: A Conceptual Framework for System Design. ***T Bi***, G Yu, and Q Wang. The 3rd International Workshop on Responsible AI Engineering, co the 47th IEEE/ACM International Conference on Software Engineering, co-hosting with ICSE, Accepted. 
 - [**ICSE-25**] Towards Better Answers: Automated Stack Overflow Post Updating. Y Mai, Z Gao, H Wang, ***T Bi***, X Hu, X Xia, J Sun. The 47th IEEE/ACM International Conference on Software Engineering, Accepted, **Core A***. 
 - [**TOSEM-24**] On the Way to Sboms: Investigating Design Issues and Solutions in Practice. ***T Bi***, B Xia, Z Xing, Q Lu, L Zhu. ACM Transactions on Software Engineering and Methodology 33 (6), 1-25, **Core A***.
