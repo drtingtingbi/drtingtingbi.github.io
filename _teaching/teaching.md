@@ -8,6 +8,7 @@ date: 2024-01-01
 location: "City, Country"
 ---
 
+- **CITS4401/3301, Software Requirements and Design, S1, 2025**
 - **CITS5026, IT Capstone Project, S2, 2024** 
 - **CITS4401/3301, Software Requirements and Design, S1, 2024** 
 
