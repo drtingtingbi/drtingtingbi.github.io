@@ -7,6 +7,7 @@ author_profile: true
 
 ## Conferences
 
+- HumanAISE, Mian track, 2025, PC member
 - ICSE's Mian track, 2026, PC member
 - ICSA's Main track, 2025, PC member
 - ESEC/FSE's Industrial track, 2025, PC member
