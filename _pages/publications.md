@@ -10,6 +10,8 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 
 ### Selective Papers 
 
+
+- [**DNS-25**] Detecting Code Vulnerabilities using LLMs, Y. Zhang, D. Jayasundera, L. Huynh, W. Jeon, H Kim, ***T. Bi***, J. Hong. The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, Accepted. **Core A**. 
 - [**JSS-25**] MPLinker: Multi-template Prompt-tuning with Adversarial Training for Issue-commit Link Recovery. B Wang, Y Deng, R li, P Liang, and ***T Bi***. Journal of Systems and Software, Accepted. 
 - [**ICSE'RAIE-25**] Privacy in Foundation Models: A Conceptual Framework for System Design. ***T Bi***, G Yu, and Q Wang. The 3rd International Workshop on Responsible AI Engineering, co the 47th IEEE/ACM International Conference on Software Engineering, co-hosting with ICSE, Accepted. 
 - [**ICSE-25**] Towards Better Answers: Automated Stack Overflow Post Updating. Y Mai, Z Gao, H Wang, ***T Bi***, X Hu, X Xia, J Sun. The 47th IEEE/ACM International Conference on Software Engineering, Accepted, **Core A***. 
