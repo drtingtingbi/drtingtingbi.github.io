@@ -9,6 +9,7 @@ author_profile: true
 
 - FSE's Main track, 2026, PC member
 - ICSE's Mian track, 2026, PC member
+- APSEC's ERA track, 2025, PC member
 - ASE's Industry Showcase track 2025, PC member
 - HumanAISE's Mian track, 2025, PC member
 - ICSA's Main track, 2025, PC member
