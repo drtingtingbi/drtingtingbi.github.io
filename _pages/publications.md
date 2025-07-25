@@ -11,7 +11,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 ### Selective Papers 
 
 
-
+- [**Mathematics-25**] An Omni-dimensional Dynamic Convolutional Network for Single Image Super-Resolution, X. Chen, Z. Wu, W. Zhang, ***T Bi***, C. Tian, Accepted.
 - [**ACL'System Demostraction-25**] DocSpiral: A Platform for Integrated Assistive Document Annotation through Human-in-the-Spira, Q. Sun, ***T. Bi***, S. Li, E. Holden, P. Duuring, K. Niu, and W. Liu, Accepted. 
 - [**DNS-25**] Detecting Code Vulnerabilities using LLMs, Y. Zhang, D. Jayasundera, L. Huynh, W. Jeon, H Kim, ***T. Bi***, J. Hong. The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, Accepted. **Core A**. 
 - [**JSS-25**] MPLinker: Multi-template Prompt-tuning with Adversarial Training for Issue-commit Link Recovery. B Wang, Y Deng, R li, P Liang, and ***T Bi***. Journal of Systems and Software, Accepted. 
@@ -20,7 +20,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 - [**TOSEM-24**] On the Way to Sboms: Investigating Design Issues and Solutions in Practice. ***T Bi***, B Xia, Z Xing, Q Lu, L Zhu. ACM Transactions on Software Engineering and Methodology 33 (6), 1-25, **Core A***.
 - [**TCSS-24**] Toward Web3 Applications: Easing the Access and Transition. G Yu, X Wang, Q Wang, ***T Bi***, YF Dong, RP Liu, N Georgalas, A Reeves. IEEE Transactions on Computational Social Systems.
 - [**TOSEM-24**] What Makes a Good TODO Comment? H Wang, Z Gao, ***T Bi***, J Grundy, X Wang, M Wu, X Yang, ACM Transactions on Software Engineering and Methodology, **Core A***.
-- [**TOSEM-24**]When Chatgpt Meets Smart Contract Vulnerability detection: How far Are We? C Chen, J Su, J Chen, Y Wang, ***T Bi***, J Yu, Y Wang, X Lin, T Chen. ACM Transactions on Software Engineering and Methodology, Accepted, **Core A***.
+- [**TOSEM-24**] When Chatgpt Meets Smart Contract Vulnerability detection: How far Are We? C Chen, J Su, J Chen, Y Wang, ***T Bi***, J Yu, Y Wang, X Lin, T Chen. ACM Transactions on Software Engineering and Methodology, Accepted, **Core A***.
 - [**Mathematics-24**]Graph Convolutional Network for Image Restoration: A Survey. T Cheng, ***T Bi***, W Ji, C Tian, Mathematics 12 (13).
 - [**IEEE Blockchain-24**] A Responsibility Pillar: Exploring and Assessing Decentralized Intelligence. Q Wang, G Yu, ***T Bi***, D Bandara, S Chen. IEEE Blockchain 2024.
 - [**BCRA-23**] An Overview of WEB3 Technology: Infrastructure, Applications, and Popularity, R Huang, J Chen, Y Wang, ***T Bi***, L Nie, Z Zheng. Blockchain: Research and Applications, 100173.
