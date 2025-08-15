@@ -15,7 +15,7 @@ I’m a lecturer (equivalent to an Assistant Professor in the U.S.) in the [the 
 ### News! 📣📢
 - If you are interested in conducting the PhD with me, please send me your CV at  **Tingting.Bi@unimelb.edu.au** 📧
   
-- Please check **China Scholarship Council - University of Melbourne PhD Scholarship**, see if you are eligible to apply! [Link](https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship)
+- Please check **China Scholarship Council - University of Melbourne PhD Scholarship**, see if you are eligible to apply. [Link](https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship)
   
 - If you’re a research student, postdoc, or visiting researcher, feel free to get in touch if you’d like to visit The University of Melbourne.
 
