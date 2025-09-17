@@ -8,5 +8,5 @@ date: 2025-07-01
 location: "City, Country"
 ---
 
-- **SWEN90014, Masters Software Engineering Project, S2, 2025**
+- **Subject Coordinator and Lecturer, SWEN90014, Masters Software Engineering Project, S2, 2025**
 
