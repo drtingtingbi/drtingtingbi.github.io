@@ -29,5 +29,4 @@ I’m a lecturer (equivalent to an Assistant Professor in the U.S.) in the [the 
 - Academic Excellence Scholarship, Australia 2022
 - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
 - Monash University Full PhD Scholarship, Australia, 2018-2021
-- Government-sponsored Overseas Study Full Scholarship, Australia, 2012-2018
-- National Scholarship for Graduate Excellence, China, 2012
+
