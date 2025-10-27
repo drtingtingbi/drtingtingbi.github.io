@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conferences
 
-- FSE‘ Industry track, 2026, PC member
+- FSE‘s Industry track, 2026, PC member
 - FSE's Main track, 2026, PC member
 - ICSE's Mian track, 2026, PC member
 - APSEC's ERA track, 2025, PC member
