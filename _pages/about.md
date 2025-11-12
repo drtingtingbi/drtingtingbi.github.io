@@ -40,10 +40,15 @@ I also welcome Master of Information Technology or MPhil students. Please contac
 
 
 ### Selected Honours & Awards 🏆
-- **Distinguished Reviewer**, [FSE tool demo track](https://2024.esec-fse.org/info/awards#demo-track-distinguished-reviewers), 2024      
-- **Distinguished Reviewer**, Internetware, 2023     
-- Excellence Teaching Award, Monash University, 2022     
+- **Distinguished Reviewer**, [FSE tool demo track](https://2024.esec-fse.org/info/awards#demo-track-distinguished-reviewers), 2024
+        
+- **Distinguished Reviewer**, Internetware, 2023
+
+- Excellence Teaching Award, Monash University, 2022
+       
 - Academic Excellence Scholarship, Australia 2022
+  
 - CSIRO Top-up PhD Scholarship, Australia, 2018-2021
+  
 - Monash University Full PhD Scholarship, Australia, 2018-2021
 
