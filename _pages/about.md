@@ -20,8 +20,7 @@ I am actively looking for self-motivated PhD students and visiting scholars to j
 If you are interested in my research areas (AI4Arch, Responsible AI, Software Supply Chain), please feel free to reach out at  **Tingting.Bi@unimelb.edu.au** 📧 with your CV and research interests. Please check the **China Scholarship Council - University of Melbourne PhD Scholarship**, see if you are eligible to apply. [Link](https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship)
 
 - **MPhil / Master Students:**  
-I also welcome Master of Information Technology or MPhil students interested in (1) architecture reasoning with LLMs, (2) responsible AI engineering, and (3) software supply chain.  
-Please contact me with your transcript and research statement.
+I also welcome Master of Information Technology or MPhil students. Please contact me with your transcript and research statement.
 
 </div>
 
