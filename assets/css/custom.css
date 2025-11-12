@@ -1,0 +1,4 @@
+/* 仅让首页正文两端对齐 */
+.home .page__content p {
+  text-align: justify;
+}
