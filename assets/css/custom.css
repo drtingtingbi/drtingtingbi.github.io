@@ -17,12 +17,7 @@
   margin-bottom: 8px;
 }
 
-/* 放大 wide 布局的整体宽度，减少右侧留白 */
-@media (min-width: 1200px) {
-  .wide .page {
-    max-width: 1400px;   /* 可以改成 1500，看你屏幕大小 */
-  }
-}
+
 
 /* ----------- 基础字体（更现代、更优雅）----------- */
 body {
@@ -74,4 +69,20 @@ body {
   margin-bottom: 0.5rem;
   line-height: 1.6;
 }
+
+/* ========= 尽量吃满横向空间，压缩右侧留白 ========= */
+@media (min-width: 1200px) {
+
+  /* 让 main 容器可以占满整个视口宽度 */
+  body.layout--single.wide #main {
+    max-width: 100vw !important;
+  }
+
+  /* 让中间这块 .page 更宽，右边几乎贴边 */
+  body.layout--single.wide #main .page {
+    max-width: none !important;
+    width: calc(100vw - 340px);  /* 340 ≈ 左侧 sidebar + 中间空隙 */
+  }
+}
+
 
