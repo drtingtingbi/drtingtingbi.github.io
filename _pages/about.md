@@ -1,13 +1,18 @@
 ---
+
 permalink: /
 title: "Welcome!"
 layout: single
 author_profile: true
-classes: wide
+classes: wide        # 你现在已经有的，可以保留
+toc: true            # ✅ 打开目录
+toc_sticky: true     # ✅ 让目录固定在右边
+toc_label: "On this page"   # 目录标题，可以改成 "页面导航"
 redirect_from:
   - /about/
   - /about.html
 ---
+
 
 
 
