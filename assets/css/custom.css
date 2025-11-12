@@ -23,3 +23,55 @@
     max-width: 1400px;   /* 可以改成 1500，看你屏幕大小 */
   }
 }
+
+/* ----------- 基础字体（更现代、更优雅）----------- */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-weight: 400;      /* 默认字重柔和但清晰 */
+  color: #222;           /* 比纯黑柔和更高档 */
+  line-height: 1.65;     /* 文本呼吸更顺畅 */
+}
+
+/* ----------- 正文排版 ----------- */
+.page__content p {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 1.0rem;  /* 段落之间更松，学术感更强 */
+}
+
+/* ----------- 链接样式（更高级的蓝色）----------- */
+.page__content a {
+  color: #0056b3;         /* 深一点的蓝，更专业 */
+  text-decoration: none;
+}
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* ----------- 标题层级优化（更优雅）----------- */
+.page__content h1 {
+  font-size: 2.0rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.page__content h2 {
+  font-size: 1.55rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+.page__content h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-top: 1.6rem;
+}
+
+/* ----------- 列表优化 ----------- */
+.page__content ul li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
