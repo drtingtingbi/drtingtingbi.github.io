@@ -12,6 +12,20 @@ redirect_from:
 
 I’m a lecturer (equivalent to an Assistant Professor in the U.S.) in the [School of Computing and Information Systems](https://cis.unimelb.edu.au/research/computer-science/research/software-engineering) at [The University of Melbourne](https://cis.unimelb.edu.au/) and an adjunct lecturer in the department of Computer Science and Software Engineering at [The University of Western Australia (UWA)](https://research-repository.uwa.edu.au/en/persons/tingting-bi). Before joining UniMelb and UWA, I was a research scientist and research fellow at [Data61, CSIRO](https://research.csiro.au/ss/people/alumni/); I completed my PhD at Monash University in 2023, where I was fortunate to be supervised by Australian Laureate Professor [John Grundy](https://sites.google.com/site/johncgrundy/). My research interests are centered around **Software architecture of AI-based systems**, **Software Supply Chain**, and **Responsible AI**. I’m particularly interested in the intersection of knowledge-based and AI-driven software engineering and software supply-chain security. My research investigates how human expertise and intelligent systems, especially large language models (LLMs) can be leveraged to enhance the processes of requirements elicitation, architectural design, and automated reasoning across the software supply chain. Ultimately, I aim to develop methods that improve transparency, trust, and resilience in AI-enabled development pipelines.
 
+<div class="highlight-box" markdown="1">
+
+**PhD Students & Visiting Scholars:**  
+I am actively looking for self-motivated PhD students and visiting scholars to join my research group at the University of Melbourne.  
+If you are interested in my research areas (AI4Arch, Responsible AI, Software Supply Chain), please feel free to reach out with your CV and research interests.
+
+**MPhil / Master Students:**  
+I also welcome Master of Information Technology or MPhil students interested in (1) architecture reasoning with LLMs, (2) responsible AI engineering, and (3) architecture-aware AI systems.  
+Please contact me with your transcript and research statement.
+
+</div>
+
+
+
 ### News! 📣📢
 - If you are interested in conducting the PhD with me, please send me your CV at  **Tingting.Bi@unimelb.edu.au** 📧
   
