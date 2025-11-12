@@ -219,6 +219,13 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""        # 作用于所有页面
+    values:
+      layout: single
+      classes: wide
+
+
   # _posts
   - scope:
       path: ""
