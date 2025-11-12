@@ -16,3 +16,10 @@
 .highlight-box p {
   margin-bottom: 8px;
 }
+
+/* 放大 wide 布局的整体宽度，减少右侧留白 */
+@media (min-width: 1200px) {
+  .wide .page {
+    max-width: 1400px;   /* 可以改成 1500，看你屏幕大小 */
+  }
+}
