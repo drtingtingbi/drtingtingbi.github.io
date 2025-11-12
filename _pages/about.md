@@ -19,6 +19,8 @@ I’m a lecturer (equivalent to an Assistant Professor in the U.S.) in the [Scho
   
 - If you’re a research student, postdoc, or visiting researcher, feel free to get in touch if you’d like to visit The University of Melbourne.
 
+- We are hosting the **Australian Summer School in Software Engineering (OzSE), 2026**, [Website](https://ozse-school.github.io/#/)
+
 - I was invited to deliver guest lectures at Northwestern Polytechnical University during the summer term, 2024.
 
 
