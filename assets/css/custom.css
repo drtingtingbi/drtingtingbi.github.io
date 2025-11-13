@@ -1256,3 +1256,21 @@ html {
   100% { transform: translateY(-100%); }
 }
 
+/* --- Custom navbar background color --- */
+.masthead {
+  background-color: #f2f2f2 !important;   /* 你可以改成更深或更浅的灰 */
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.masthead__inner-wrap {
+  background-color: transparent !important;
+}
+
+.masthead__menu-item a {
+  color: #4a4a4a !important;      /* 导航文字灰色 */
+}
+
+.masthead__menu-item a:hover {
+  color: #000 !important;         /* 鼠标悬停变黑 */
+}
+
