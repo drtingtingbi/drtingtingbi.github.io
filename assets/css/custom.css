@@ -429,6 +429,29 @@ body {
     font-weight: 600 !important;
 }
 
+/* ===== Publications: venue & Core 统一蓝色样式 ===== */
+
+.page__content .pub-venue {
+  color: #0056b3 !important;      /* 专业深蓝 */
+  font-weight: 500;
+}
+
+/* 如果想把 Core A / Core A* 再强调一下 */
+.page__content .pub-venue {
+  white-space: normal;
+}
+
+.page__content .pub-venue:has(> .pub-core),
+.page__content .pub-core {
+  font-weight: 600;
+}
+
+/* 可选：让整行 venue 稍微小一点间距 */
+.page__content .pub-venue {
+  display: inline-block;
+  margin-top: 2px;
+}
+
 
 
 
