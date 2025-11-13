@@ -32,7 +32,7 @@ If you are interested in my research areas (AI4Arch, Responsible AI, and Softwar
 - **MPhil / Master Students:**  
 I also welcome Master of Information Technology or MPhil students. Please contact me with your transcript and research statement.
 
-
+</div>
 
 ### News! 📣📢
 
