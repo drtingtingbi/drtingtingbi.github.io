@@ -26,8 +26,16 @@ My research interests are centered around **Software architecture of AI-based sy
 
 - **PhD Students & Visiting Scholars:**  
 I am actively looking for self-motivated PhD students and visiting scholars to join my research group at the University of Melbourne.  
-If you are interested in my research areas (AI4Arch, Responsible AI, and Software Supply Chain), please feel free to reach out at  **Tingting.Bi@unimelb.edu.au** 📧 with your CV and research interests. Please check the **China Scholarship Council - University of Melbourne PhD Scholarship**, see if you are eligible to apply. [Link](https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship)
+If you are interested in my research areas (AI4Arch, Responsible AI, and Software Supply Chain), please feel free to reach out at  **Tingting.Bi@unimelb.edu.au** 📧 with your CV and research interests.
 
+
+- **How to Apply**
+1. Please check the [application process](https://study.unimelb.edu.au/how-to-apply/graduate-research) and [entry requirements](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/entry-requirements/) for PhD application at the University of Melbourne.
+
+2. Please check the **China Scholarship Council - University of Melbourne PhD Scholarship**, see if you are eligible to apply. [Link](https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship)
+
+3. Other requirements: GPA of at least 82 for University of Melbourne students and at least 85 for external universities.
+Research experience in Software Engineering.
 
 - **MPhil / Master Students:**  
 I also welcome Master of Information Technology or MPhil students. Please contact me with your transcript and research statement.
@@ -37,7 +45,7 @@ I also welcome Master of Information Technology or MPhil students. Please contac
 ### News! 📣📢
 
 
-   - We are hosting the **Australian Summer School in Software Engineering (OzSE), 2026**, [Website:](https://ozse-school.github.io)
+   - We are hosting the **Australian Summer School in Software Engineering (OzSE), 2026**. [Website:](https://ozse-school.github.io)
    - Our ICSE'25 paper on Stack Overflow post updating is accepted!
    - Two TOSEM papers accepted.
    - Invited to serve on FSE and ICSE PC committees.
