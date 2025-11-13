@@ -1,9 +1,11 @@
 ---
+---
 title: "Teaching"
 layout: single
 permalink: /teaching/
 author_profile: true
-date: 2025-01-01
+---
+
 ---
 
 Below is a summary of the courses I have taught across Monash University, the University of Melbourne, and the University of Western Australia.
