@@ -1218,9 +1218,9 @@ html {
   50.01%, 100% { opacity: 0; }
 }
 
-/* ===== News Auto Scroll ===== */
+/* ===== News Auto Scroll (Improved, no blank gap) ===== */
 .news-scroll {
-  height: 140px;              /* 可调整高度 */
+  height: 110px;               /* ← 更矮更紧凑，可改成 90–120 */
   overflow: hidden;
   position: relative;
   border-left: 4px solid #003366;
@@ -1233,7 +1233,9 @@ html {
   list-style: none;
   padding: 0;
   margin: 0;
-  animation: newsScroll 12s linear infinite;
+
+  /* Trick: duplicate content so scroll is seamless */
+  animation: newsScroll 10s linear infinite;
 }
 
 .news-scroll li {
@@ -1242,13 +1244,15 @@ html {
   line-height: 1.5;
 }
 
-/* Hover 时暂停滚动 */
+/* Hover pauses scrolling */
 .news-scroll:hover ul {
   animation-play-state: paused;
 }
 
-/* 滚动 Keyframes */
+/* Keyframes for seamless scroll */
 @keyframes newsScroll {
   0%   { transform: translateY(0); }
-  100% { transform: translateY(-100%); }
+  100% { transform: translateY(-50%); } 
+  /* 关键：只滚到总高度的一半，因为我们等下做“内容复制” */
 }
+
