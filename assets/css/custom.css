@@ -173,4 +173,42 @@ body {
   line-height: 1.65 !important;
 }
 
+/* =========================================================
+   强制覆盖 Minimal Mistakes 的 archive 页面（Publications）样式
+   ========================================================= */
+
+/* 正文及摘要的字体统一 */
+.archive .archive__item-excerpt,
+.archive .archive__item-excerpt p,
+.archive .archive__item-body,
+.archive .archive__item-body p {
+  font-size: 16px !important;
+  line-height: 1.65 !important;
+  color: #222 !important;
+}
+
+/* Publications 中的列表统一 */
+.archive .archive__item-excerpt ul li,
+.archive .archive__item-excerpt ol li,
+.archive .archive__item-body ul li,
+.archive .archive__item-body ol li {
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* 论文标题大小统一 */
+.archive .archive__item-title a {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  line-height: 1.4 !important;
+  color: #0056b3 !important; /* 与 homepage 链接一致 */
+}
+
+/* 论文条目之间间距更优雅 */
+.archive .archive__item {
+  margin-bottom: 1.5rem !important;
+}
+
+
 
