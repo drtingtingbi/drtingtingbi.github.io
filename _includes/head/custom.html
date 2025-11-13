@@ -34,3 +34,52 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <!-- end custom head snippets -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const el = document.getElementById("tt-typewriter");
+  if (!el) return;
+
+  const taglines = [
+    "Building responsible, transparent, architecture-aware AI systems.",
+    "Making AI-based software development reliable, ethical, and efficient.",
+    "Bridging software architecture, AI4SE, and responsible AI practice."
+  ];
+
+  let idx = 0;        // 当前句子
+  let charIdx = 0;    // 当前打到第几个字符
+  let deleting = false;
+
+  function typeLoop() {
+    const current = taglines[idx];
+
+    if (!deleting) {
+      // 正在打字
+      el.textContent = current.slice(0, charIdx + 1);
+      charIdx++;
+
+      if (charIdx === current.length) {
+        // 完整打一行后，稍微停顿一下再删
+        deleting = true;
+        setTimeout(typeLoop, 1500);
+        return;
+      }
+    } else {
+      // 正在删除
+      el.textContent = current.slice(0, charIdx - 1);
+      charIdx--;
+
+      if (charIdx === 0) {
+        deleting = false;
+        idx = (idx + 1) % taglines.length; // 下一句
+      }
+    }
+
+    const delay = deleting ? 50 : 80;  // 删除稍微快一点
+    setTimeout(typeLoop, delay);
+  }
+
+  typeLoop();
+});
+</script>
+
