@@ -1218,41 +1218,41 @@ html {
   50.01%, 100% { opacity: 0; }
 }
 
-/* ===== News Auto Scroll (Improved, no blank gap) ===== */
-.news-scroll {
-  height: 110px;               /* ← 更矮更紧凑，可改成 90–120 */
-  overflow: hidden;
+/* ====== Elegant Auto-Scrolling News Ticker ====== */
+.news-ticker {
   position: relative;
+  overflow: hidden;
+  height: 70px;               /* 可根据内容行数自动调整：2 行约 70px */
   border-left: 4px solid #003366;
   background: #f8f9fc;
-  padding: 8px 15px;
-  border-radius: 8px;
+  padding: 10px 15px;
+  border-radius: 10px;
 }
 
-.news-scroll ul {
+.news-ticker ul {
   list-style: none;
   padding: 0;
   margin: 0;
-
-  /* Trick: duplicate content so scroll is seamless */
-  animation: newsScroll 10s linear infinite;
+  animation: scrollNews 8s linear infinite;
 }
 
-.news-scroll li {
-  margin-bottom: 10px;
+.news-ticker li {
   font-size: 15px;
-  line-height: 1.5;
+  line-height: 1.6;
+  padding: 3px 0;
 }
 
-/* Hover pauses scrolling */
-.news-scroll:hover ul {
+/* Hover 暂停滚动 */
+.news-ticker:hover ul {
   animation-play-state: paused;
 }
 
-/* Keyframes for seamless scroll */
-@keyframes newsScroll {
+/* 关键帧：自然循环，不跳动，无空白 */
+@keyframes scrollNews {
   0%   { transform: translateY(0); }
-  100% { transform: translateY(-50%); } 
-  /* 关键：只滚到总高度的一半，因为我们等下做“内容复制” */
+  25%  { transform: translateY(-25%); }
+  50%  { transform: translateY(-50%); }
+  75%  { transform: translateY(-75%); }
+  100% { transform: translateY(-100%); }
 }
 
