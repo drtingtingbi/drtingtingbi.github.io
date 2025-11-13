@@ -19,7 +19,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
     </div>
     <div class="teach-meta">
       <span class="teach-icon">🏫</span>
-      <span>School of Computing and Information Systems, The University of Melbourne</span>
+      <span>School of Computing and Information Systems</span>
     </div>
     <div class="teach-note">
       <span class="teach-icon">📅</span>
@@ -37,7 +37,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
     </div>
     <div class="teach-meta">
       <span class="teach-icon">🏫</span>
-      <span>Department of Computer Science & Software Engineering, The University of Western Australia</span>
+      <span>Department of Computer Science & Software Engineering</span>
     </div>
     <div class="teach-note">
       <span class="teach-icon">📅</span>
@@ -51,7 +51,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
     </div>
     <div class="teach-meta">
       <span class="teach-icon">🏫</span>
-      <span>Department of Computer Science & Software Engineering, The University of Western Australia</span>
+      <span>Department of Computer Science & Software Engineering</span>
     </div>
     <div class="teach-note">
       <span class="teach-icon">📅</span>
@@ -65,7 +65,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
     </div>
     <div class="teach-meta">
       <span class="teach-icon">🏫</span>
-      <span>Department of Computer Science & Software Engineering, The University of Western Australia</span>
+      <span>Department of Computer Science & Software Engineering</span>
     </div>
     <div class="teach-note">
       <span class="teach-icon">📅</span>
@@ -83,7 +83,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
     </div>
     <div class="teach-meta">
       <span class="teach-icon">🏫</span>
-      <span>Faculty of Information Technology, Monash University</span>
+      <span>Faculty of Information Technology</span>
     </div>
     <div class="teach-note">
       <span class="teach-icon">📅</span>
@@ -97,7 +97,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
     </div>
     <div class="teach-meta">
       <span class="teach-icon">🏫</span>
-      <span>Faculty of Information Technology, Monash University</span>
+      <span>Faculty of Information Technology</span>
     </div>
     <div class="teach-note">
       <span class="teach-icon">📅</span>
@@ -111,7 +111,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
     </div>
     <div class="teach-meta">
       <span class="teach-icon">🏫</span>
-      <span>Faculty of Information Technology, Monash University</span>
+      <span>Faculty of Information Technology</span>
     </div>
     <div class="teach-note">
       <span class="teach-icon">📅</span>
