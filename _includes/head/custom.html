@@ -36,50 +36,60 @@
 <!-- end custom head snippets -->
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const el = document.getElementById("tt-typewriter");
-  if (!el) return;
+/* Simple typewriter for homepage tagline */
+(function () {
 
-  const taglines = [
-    "Building responsible, transparent, architecture-aware AI systems.",
-    "Making AI-based software development reliable, ethical, and efficient.",
-    "Bridging software architecture, AI4SE, and responsible AI practice."
-  ];
+  function startTypewriter() {
+    var el = document.getElementById('tt-typewriter');
+    if (!el) return;   // 如果没找到这个 span，就直接退出
 
-  let idx = 0;        // 当前句子
-  let charIdx = 0;    // 当前打到第几个字符
-  let deleting = false;
+    var taglines = [
+      "Building responsible, transparent, architecture-aware AI systems.",
+      "Making AI-based software development reliable, ethical, and efficient.",
+      "Bridging software architecture, AI4SE, and responsible AI practice."
+    ];
 
-  function typeLoop() {
-    const current = taglines[idx];
+    var i = 0;          // 当前在第几个句子
+    var j = 0;          // 当前句子打到第几个字符
+    var deleting = false;
 
-    if (!deleting) {
-      // 正在打字
-      el.textContent = current.slice(0, charIdx + 1);
-      charIdx++;
+    function tick() {
+      var current = taglines[i];
 
-      if (charIdx === current.length) {
-        // 完整打一行后，稍微停顿一下再删
-        deleting = true;
-        setTimeout(typeLoop, 1500);
-        return;
+      if (!deleting) {
+        // 正在打字
+        j++;
+        el.textContent = current.slice(0, j);
+        if (j === current.length) {
+          // 打完一行，停顿 1.5 秒再开始删
+          deleting = true;
+          setTimeout(tick, 1500);
+          return;
+        }
+      } else {
+        // 正在删除
+        j--;
+        el.textContent = current.slice(0, j);
+        if (j === 0) {
+          deleting = false;
+          i = (i + 1) % taglines.length; // 下一句
+        }
       }
-    } else {
-      // 正在删除
-      el.textContent = current.slice(0, charIdx - 1);
-      charIdx--;
 
-      if (charIdx === 0) {
-        deleting = false;
-        idx = (idx + 1) % taglines.length; // 下一句
-      }
+      // 打字 80ms/字符，删除 50ms/字符
+      var delay = deleting ? 50 : 80;
+      setTimeout(tick, delay);
     }
 
-    const delay = deleting ? 50 : 80;  // 删除稍微快一点
-    setTimeout(typeLoop, delay);
+    tick();
   }
 
-  typeLoop();
-});
-</script>
+  // 确保在 DOM 准备好之后再启动
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", startTypewriter);
+  } else {
+    startTypewriter();
+  }
 
+})();
+</script>
