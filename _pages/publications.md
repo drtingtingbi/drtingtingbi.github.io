@@ -51,52 +51,53 @@ author_profile: true
 <div class="pub-entry">
 <strong>[TOSEM-25] Systematic Literature Review on Software Security Vulnerability Information Extraction</strong>  
 XL S. Yitagesu, Z. Xing, X. Zhang, Z. Feng, <strong>T. Bi</strong>, L. Hen  
-<span class="pub-venue">⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</span>
+<div class="pub-venue">⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[Mathematics-25] Dynamic Snake Convolution Neural Network for Enhanced Image Super-Resolution</strong>  
 W. Xin, Z. Wu, Q. Zhu, <strong>T. Bi</strong>, B. Li, C. Tian  
-<span class="pub-venue">📄 Mathematics, Vol. 13(15), 2457.</span>
+<div class="pub-venue">📄 Mathematics, Vol. 13(15), 2457.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[Mathematics-25] An Omni-dimensional Dynamic Convolutional Network for Single Image Super-Resolution</strong>  
 X. Chen, Z. Wu, W. Zhang, <strong>T. Bi</strong>, C. Tian  
-<span class="pub-venue">📄 Mathematics, Vol. 13(15), 2388.</span>
+<div class="pub-venue">📄 Mathematics, Vol. 13(15), 2388.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[ACL’System Demonstration-25] DocSpiral: A Platform for Integrated Assistive Document Annotation</strong>  
 Q. Sun, <strong>T. Bi</strong>, S. Li, E. Holden, P. Duuring, K. Niu, W. Liu  
-<span class="pub-venue">⭐ <span class="pub-core">Core A*</span> ·📄 ACL System Demonstration, Accepted.</span>
+<div class="pub-venue">📄 ACL System Demonstration, Accepted.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[DNS-25] Detecting Code Vulnerabilities using LLMs</strong>  
 Y. Zhang, D. Jayasundera, L. Huynh, W. Jeon, H. Kim, <strong>T. Bi</strong>, J. Hong  
-<span class="pub-venue">⭐ <span class="pub-core">Core A</span> · 📄 IEEE/IFIP DSN 2025, Accepted.</span>
+<div class="pub-venue">⭐ <span class="pub-core">Core A</span> · 📄 IEEE/IFIP DSN 2025, Accepted.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[JSS-25] MPLinker: Multi-template Prompt-tuning with Adversarial Training for Issue-commit Link Recovery</strong>  
 B. Wang, Y. Deng, R. Li, P. Liang, <strong>T. Bi</strong>  
-<span class="pub-venue">⭐ <span class="pub-core">Core A</span> ·📄 Journal of Systems and Software, Accepted.</span>
+<div class="pub-venue">📄 Journal of Systems and Software, Accepted.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[ICSE’RAIE-25] Privacy in Foundation Models: A Conceptual Framework for System Design</strong>  
 <strong>T. Bi</strong>, G. Yu, Q. Wang  
-<span class="pub-venue">📄 RAIE 2025 Workshop (Co-located with ICSE), Accepted.</span>
+<div class="pub-venue">📄 RAIE 2025 Workshop (Co-located with ICSE), Accepted.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[ICSE-25] Towards Better Answers: Automated Stack Overflow Post Updating</strong>  
 Y. Mai, Z. Gao, H. Wang, <strong>T. Bi</strong>, X. Hu, X. Xia, J. Sun  
-<span class="pub-venue">⭐ <span class="pub-core">Core A*</span> · 📄 ICSE 2025, Accepted.</span>
+<div class="pub-venue">⭐ <span class="pub-core">Core A*</span> · 📄 ICSE 2025, Accepted.</div>
 </div>
 
 </div>
+
 
 
 ---
