@@ -27,108 +27,122 @@ I am fortunate to collaborate closely with colleagues and mentors from academia 
 
 <div class="proj-grid">
 
-  <!-- Project 1 -->
-  <div class="proj-card">
-    <div class="proj-header">
-      <div>
-        <div class="proj-title">Software Architecture Design for AI-based Systems</div>
-        <div class="proj-meta">Architecture, design knowledge, and quality attributes</div>
-      </div>
-      <div class="proj-tags">
-        <span class="proj-tag proj-tag-core">AI-based Systems</span>
-        <span class="proj-tag">Software Architecture</span>
-        <span class="proj-tag">Design Knowledge</span>
-      </div>
+<!-- Project 1 -->
+<div class="proj-card">
+
+  <div class="proj-header">
+    <div>
+      <div class="proj-title">Software Architecture Design for AI-based Systems</div>
+      <div class="proj-meta">Architecture · Design knowledge · Quality attributes</div>
     </div>
-
-    <!-- 总结：始终可见 -->
-    <p class="proj-desc">
-      This line of work studies how we can design, analyse, and communicate architectures for AI-based systems,
-      and how architectural knowledge influences system qualities.
-    </p>
-
-    <!-- 详情：hover 卡片时展开 -->
-    <div class="proj-extra">
-      <ul>
-        <li>Mining architecture patterns, tactics, and related quality attribute discussions from developer communities.</li>
-        <li>Extracting communicated architectural information from mailing lists and OSS communication channels.</li>
-        <li>Linking architectural decisions to quality attributes such as maintainability, robustness, and performance.</li>
-      </ul>
-
-      <p style="text-align: center;">
-        <img class="proj-img"
-             src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/AIarchitecture.png"
-             alt="AI-based software architecture overview">
-      </p>
+    <div class="proj-tags">
+      <span class="proj-tag proj-tag-core">AI-based Systems</span>
+      <span class="proj-tag">Software Architecture</span>
+      <span class="proj-tag">Design Knowledge</span>
     </div>
   </div>
 
-  <!-- Project 2 -->
-  <div class="proj-card">
-    <div class="proj-header">
-      <div>
-        <div class="proj-title">LLMs for Software Engineering Knowledge Management</div>
-        <div class="proj-meta">AI4SE · productivity &amp; knowledge reuse</div>
-      </div>
-      <div class="proj-tags">
-        <span class="proj-tag">LLMs</span>
-        <span class="proj-tag">AI4SE</span>
-        <span class="proj-tag">Knowledge Management</span>
-      </div>
-    </div>
+  <div class="proj-body">
 
-    <p class="proj-desc">
-      We explore how large language models can support software teams in managing, reusing, and operationalising
-      development and design knowledge at scale.
-    </p>
-
-    <div class="proj-extra">
-      <ul>
-        <li><strong>Technical debt management:</strong> identifying, prioritising, and addressing technical debt to maintain long-term code health.</li>
-        <li><strong>Documentation assistance:</strong> keeping architectural and API documentation clear, concise, and up to date.</li>
-        <li><strong>Design and review support:</strong> using LLMs to summarise design discussions and suggest alternative solutions.</li>
-      </ul>
-
-      <p style="text-align: center;">
-        <img class="proj-img"
-             src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/LLMknowledge.png"
-             alt="LLM-based knowledge management for software engineering">
+    <div class="proj-text">
+      <p class="proj-desc">
+        This line of work studies how we can design, analyse, and communicate architectures for AI-based 
+        systems and how architectural knowledge influences system qualities.
       </p>
-    </div>
-  </div>
 
-  <!-- Project 3 -->
-  <div class="proj-card">
-    <div class="proj-header">
-      <div>
-        <div class="proj-title">Responsible AI in Software Systems</div>
-        <div class="proj-meta">Transparency, responsibility, and risk mitigation</div>
-      </div>
-      <div class="proj-tags">
-        <span class="proj-tag">Responsible AI</span>
-        <span class="proj-tag">SBOM / AIBOM</span>
-        <span class="proj-tag">Governance</span>
+      <div class="proj-extra">
+        <ul>
+          <li>Mining architecture patterns, tactics, and quality attribute discussions.</li>
+          <li>Extracting architectural information from OSS communication channels.</li>
+          <li>Linking architecture decisions to maintainability, robustness, and performance.</li>
+        </ul>
       </div>
     </div>
 
-    <p class="proj-desc">
-      This project investigates how to embed responsibility and transparency into AI-based software systems by design,
-      bringing together software architecture and software supply chain perspectives.
-    </p>
-
-    <div class="proj-extra">
-      <ul>
-        <li>Using product-pattern-focused artefacts (e.g., SBOM, AIBOM) to analyse AI system components and dependencies.</li>
-        <li>Understanding risks and obligations in AI supply chains, from models to libraries and services.</li>
-        <li>Proposing practical guidance and frameworks for responsible AI engineering in real-world settings.</li>
-      </ul>
-
-      <p style="text-align: center;">
-        <img class="proj-img"
-             src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png"
-             alt="Responsible AI and architectural transparency">
-      </p>
-    </div>
+    <img class="proj-img" 
+         src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/AIarchitecture.png">
   </div>
 
 </div>
+
+
+<!-- Project 2 -->
+<div class="proj-card">
+
+  <div class="proj-header">
+    <div>
+      <div class="proj-title">LLMs for Software Engineering Knowledge Management</div>
+      <div class="proj-meta">AI4SE · Productivity · Knowledge reuse</div>
+    </div>
+    <div class="proj-tags">
+      <span class="proj-tag">LLMs</span>
+      <span class="proj-tag">AI4SE</span>
+      <span class="proj-tag">Knowledge Management</span>
+    </div>
+  </div>
+
+  <div class="proj-body">
+
+    <div class="proj-text">
+      <p class="proj-desc">
+        We explore how large language models can support software teams in managing, reusing, and 
+        operationalising development and design knowledge at scale.
+      </p>
+
+      <div class="proj-extra">
+        <ul>
+          <li><strong>Technical debt management:</strong> identifying, prioritising, and addressing long-term code health issues.</li>
+          <li><strong>Documentation assistance:</strong> generating and maintaining concise and up-to-date artefacts.</li>
+          <li><strong>Design review support:</strong> summarising discussions and suggesting design alternatives.</li>
+        </ul>
+      </div>
+    </div>
+
+    <img class="proj-img" 
+         src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/LLMknowledge.png">
+  </div>
+
+</div>
+
+
+<!-- Project 3 -->
+<div class="proj-card">
+
+  <div class="proj-header">
+    <div>
+      <div class="proj-title">Responsible AI in Software Systems</div>
+      <div class="proj-meta">Transparency · Responsibility · Risk mitigation</div>
+    </div>
+    <div class="proj-tags">
+      <span class="proj-tag">Responsible AI</span>
+      <span class="proj-tag">SBOM / AIBOM</span>
+      <span class="proj-tag">Governance</span>
+    </div>
+  </div>
+
+  <div class="proj-body">
+
+    <div class="proj-text">
+      <p class="proj-desc">
+        This project investigates how to embed responsibility and transparency into AI-based systems
+        by connecting software architecture principles with software supply chain insights.
+      </p>
+
+      <div class="proj-extra">
+        <ul>
+          <li>Using SBOM/AIBOM artefacts to analyse model dependencies and risk.</li>
+          <li>Understanding supply chain responsibilities in AI ecosystems.</li>
+          <li>Developing frameworks for responsible AI engineering.</li>
+        </ul>
+      </div>
+    </div>
+
+    <img class="proj-img" 
+         src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png">
+  </div>
+
+</div>
+
+</div>
+
+
