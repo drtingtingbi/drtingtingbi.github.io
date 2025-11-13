@@ -887,5 +887,135 @@ html {
   }
 }
 
+/* ----------------- Project Grid Layout ----------------- */
+
+.proj-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 20px;
+  margin-top: 12px;
+}
+
+/* ----------------- Project Card ----------------- */
+
+.proj-card {
+  background: #f9fafc;
+  border-radius: 15px;   /* 更圆角 */
+  border: 1px solid #dde3ee;
+  padding: 18px 22px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06); /* 更明显阴影 */
+  transition: 0.25s ease;
+}
+
+/* Hover 效果 */
+.proj-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+  border-color: #c8d3f2;
+}
+
+/* Project header */
+.proj-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.proj-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #102a43;
+}
+
+.proj-meta {
+  font-size: 0.82rem;
+  color: #6b778d;
+}
+
+/* Tags */
+.proj-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.proj-tag {
+  font-size: 0.72rem;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: #eef1ff;
+  border: 1px solid #d8defd;
+  color: #344675;
+}
+
+.proj-tag-core {
+  background: #ffe8c7;
+  border-color: #f3c28a;
+  color: #8a5200;
+}
+
+/* ----------------- Body: Text left + Image right ----------------- */
+
+.proj-body {
+  margin-top: 10px;
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.proj-text {
+  flex: 1;
+}
+
+/* Small right-side image */
+.proj-img {
+  width: 110px;       /* 控制图片大小（新版更小） */
+  border-radius: 8px;
+  flex-shrink: 0;
+  margin-top: 6px;
+}
+
+/* Summary */
+.proj-desc {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: #2f3f53;
+}
+
+/* Hover extra */
+.proj-extra {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: 0.3s ease;
+}
+
+.proj-card:hover .proj-extra {
+  max-height: 600px;
+  opacity: 1;
+  margin-top: 6px;
+}
+
+/* List in extra */
+.proj-extra ul {
+  padding-left: 1.2rem;
+}
+.proj-extra li {
+  margin-bottom: 4px;
+  line-height: 1.5;
+}
+
+/* Mobile: image moves below */
+@media (max-width: 600px) {
+  .proj-body {
+    flex-direction: column;
+  }
+  .proj-img {
+    width: 60%;
+    margin: 10px auto 0;
+  }
+}
+
 
 
