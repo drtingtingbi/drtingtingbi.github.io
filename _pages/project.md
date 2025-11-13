@@ -18,7 +18,7 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
 
 - Prof. <a href="https://sites.google.com/site/johncgrundy/" target="_blank">John Grundy</a>, Monash University  
 - Prof. & Senior Principal Research Scientist <a href="https://people.csiro.au/X/Z/Zhenchang-Xing/" target="_blank">Zhenchang Xing</a>, Data61, CSIRO  
-- Assistant Prof. <a href="https://jiachi-chen.github.io/" target="_blank">Jiachi Chen</a>, Sun Yat-Sen University  
+- Assistant Prof. <a href="https://jiachi-chen.github.io/" target="_blank">Jiachi Chen</a>, Zhejiang University  
 - Assistant Prof. <a href="https://zpgao.github.io/" target="_blank">Zhipeng Gao</a>, Zhejiang University  
 
 ---
