@@ -14,10 +14,10 @@ author_profile: true
 
 ## Research Team 👏
 
-I am fortunate to collaborate closely with colleagues and mentors from academia and industry:
+I am fortunate to collaborate with colleagues and mentors from academia and industry:
 
 - Prof. <a href="https://sites.google.com/site/johncgrundy/" target="_blank">John Grundy</a>, Monash University  
-- Prof. &amp; Senior Principal Research Scientist <a href="https://people.csiro.au/X/Z/Zhenchang-Xing/" target="_blank">Zhenchang Xing</a>, Data61, CSIRO  
+- Prof. & Senior Principal Research Scientist <a href="https://people.csiro.au/X/Z/Zhenchang-Xing/" target="_blank">Zhenchang Xing</a>, Data61, CSIRO  
 - Assistant Prof. <a href="https://jiachi-chen.github.io/" target="_blank">Jiachi Chen</a>, Sun Yat-Sen University  
 - Assistant Prof. <a href="https://zpgao.github.io/" target="_blank">Zhipeng Gao</a>, Zhejiang University  
 
@@ -42,25 +42,17 @@ I am fortunate to collaborate closely with colleagues and mentors from academia 
     </div>
   </div>
 
-  <div class="proj-body">
+  <p class="proj-desc">
+    This project investigates how architectural design, architectural knowledge, and quality
+    attributes shape the development of AI-based systems.
+  </p>
 
-    <div class="proj-text">
-      <p class="proj-desc">
-        This line of work studies how we can design, analyse, and communicate architectures for AI-based 
-        systems and how architectural knowledge influences system qualities.
-      </p>
-
-      <div class="proj-extra">
-        <ul>
-          <li>Mining architecture patterns, tactics, and quality attribute discussions.</li>
-          <li>Extracting architectural information from OSS communication channels.</li>
-          <li>Linking architecture decisions to maintainability, robustness, and performance.</li>
-        </ul>
-      </div>
-    </div>
-
-    <img class="proj-img" 
-         src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/AIarchitecture.png">
+  <div class="proj-extra">
+    <ul>
+      <li>Mining architecture patterns, tactics, and quality attribute discussions.</li>
+      <li>Extracting architectural information from OSS communication channels.</li>
+      <li>Connecting architecture choices with maintainability and robustness.</li>
+    </ul>
   </div>
 
 </div>
@@ -81,25 +73,17 @@ I am fortunate to collaborate closely with colleagues and mentors from academia 
     </div>
   </div>
 
-  <div class="proj-body">
+  <p class="proj-desc">
+    This project explores how large language models can support developers in managing,
+    reusing, and operationalising design and development knowledge.
+  </p>
 
-    <div class="proj-text">
-      <p class="proj-desc">
-        We explore how large language models can support software teams in managing, reusing, and 
-        operationalising development and design knowledge at scale.
-      </p>
-
-      <div class="proj-extra">
-        <ul>
-          <li><strong>Technical debt management:</strong> identifying, prioritising, and addressing long-term code health issues.</li>
-          <li><strong>Documentation assistance:</strong> generating and maintaining concise and up-to-date artefacts.</li>
-          <li><strong>Design review support:</strong> summarising discussions and suggesting design alternatives.</li>
-        </ul>
-      </div>
-    </div>
-
-    <img class="proj-img" 
-         src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/LLMknowledge.png">
+  <div class="proj-extra">
+    <ul>
+      <li>Supporting technical debt identification and prioritisation.</li>
+      <li>Maintaining clean and concise documentation for architecture and APIs.</li>
+      <li>Summarising design discussions and proposing alternative solutions.</li>
+    </ul>
   </div>
 
 </div>
@@ -120,29 +104,22 @@ I am fortunate to collaborate closely with colleagues and mentors from academia 
     </div>
   </div>
 
-  <div class="proj-body">
+  <p class="proj-desc">
+    This project examines how we can embed responsibility, transparency, and supply-chain
+    awareness into AI-based software systems by design.
+  </p>
 
-    <div class="proj-text">
-      <p class="proj-desc">
-        This project investigates how to embed responsibility and transparency into AI-based systems
-        by connecting software architecture principles with software supply chain insights.
-      </p>
-
-      <div class="proj-extra">
-        <ul>
-          <li>Using SBOM/AIBOM artefacts to analyse model dependencies and risk.</li>
-          <li>Understanding supply chain responsibilities in AI ecosystems.</li>
-          <li>Developing frameworks for responsible AI engineering.</li>
-        </ul>
-      </div>
-    </div>
-
-    <img class="proj-img" 
-         src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png">
+  <div class="proj-extra">
+    <ul>
+      <li>Using SBOM/AIBOM artefacts to examine AI dependencies and risks.</li>
+      <li>Understanding responsibility across the AI supply chain.</li>
+      <li>Developing practical guidance for responsible AI engineering.</li>
+    </ul>
   </div>
 
 </div>
 
 </div>
+
 
 
