@@ -15,11 +15,11 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 
 **[Mathematics-25] Dynamic Snake Convolution Neural Network for Enhanced Image Super-Resolution**  
 W. Xin, Z. Wu, Q. Zhu, **T. Bi**, B. Li, C. Tian  
-📝 Mathematics, Vol. 13(15), 2457.
+<span class="pub-venue">📝 Mathematics, Vol. 13(15), 2457.</span>
 
 **[Mathematics-25] An Omni-dimensional Dynamic Convolutional Network for Single Image Super-Resolution**  
 X. Chen, Z. Wu, W. Zhang, **T. Bi**, C. Tian  
-📝 Mathematics, Vol. 13(15), 2388.
+<span class="pub-venue">📝 Mathematics, Vol. 13(15), 2388.</span>
 
 **[ACL’System Demonstration-25] DocSpiral: A Platform for Integrated Assistive Document Annotation**  
 Q. Sun, **T. Bi**, S. Li, E. Holden, P. Duuring, K. Niu, W. Liu  
