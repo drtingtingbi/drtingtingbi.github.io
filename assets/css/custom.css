@@ -452,6 +452,30 @@ body {
   margin-top: 2px;
 }
 
+/* ===== Force venue line to turn BLUE ===== */
+
+.page__content span.pub-venue,
+.page .archive__item span.pub-venue,
+span.pub-venue {
+    color: #0056b3 !important;
+    font-weight: 600 !important;
+}
+
+/* venue line is sometimes inside <p> */
+.page__content p span.pub-venue {
+    color: #0056b3 !important;
+}
+
+/* make emojis inside venue also turn blue */
+span.pub-venue * {
+    color: #0056b3 !important;
+}
+
+/* specialty: if Core A/A* is inside the same span */
+span.pub-venue strong,
+span.pub-venue em {
+    color: #0056b3 !important;
+}
 
 
 
