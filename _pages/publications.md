@@ -69,7 +69,7 @@ X. Chen, Z. Wu, W. Zhang, <strong>T. Bi</strong>, C. Tian
 <div class="pub-entry">
 <strong>[ACL’System Demonstration-25] DocSpiral: A Platform for Integrated Assistive Document Annotation</strong>  
 Q. Sun, <strong>T. Bi</strong>, S. Li, E. Holden, P. Duuring, K. Niu, W. Liu  
-<span class="pub-venue">📄 ACL System Demonstration, Accepted.</span>
+<span class="pub-venue">⭐ <span class="pub-core">Core A*</span> ·📄 ACL System Demonstration, Accepted.</span>
 </div>
 
 <div class="pub-entry">
@@ -81,7 +81,7 @@ Y. Zhang, D. Jayasundera, L. Huynh, W. Jeon, H. Kim, <strong>T. Bi</strong>, J. 
 <div class="pub-entry">
 <strong>[JSS-25] MPLinker: Multi-template Prompt-tuning with Adversarial Training for Issue-commit Link Recovery</strong>  
 B. Wang, Y. Deng, R. Li, P. Liang, <strong>T. Bi</strong>  
-<span class="pub-venue">📄 Journal of Systems and Software, Accepted.</span>
+<span class="pub-venue">⭐ <span class="pub-core">Core A</span> ·📄 Journal of Systems and Software, Accepted.</span>
 </div>
 
 <div class="pub-entry">
