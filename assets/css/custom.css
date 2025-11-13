@@ -342,3 +342,41 @@ body {
   margin-bottom: 1.5rem;
 }
 
+/* =========================================================
+   FORCE Publication page to use unified font size + line height
+   ========================================================= */
+
+/* 覆盖 publication 列表标题、作者、摘要等所有内容 */
+.archive,
+.archive .archive__item-title,
+.archive .archive__item-title a,
+.archive .archive__item-excerpt,
+.archive .archive__item-body,
+.archive p,
+.archive li,
+.archive span {
+    font-size: 16px !important;
+    line-height: 1.65 !important;
+    color: #222 !important;
+}
+
+/* 论文标题比正文稍微大一点，但统一风格 */
+.archive .archive__item-title a {
+    font-size: 18px !important;
+    font-weight: 600 !important;
+}
+
+/* 论文列表之间的间距 */
+.archive .archive__item {
+    margin-bottom: 1.2rem !important;
+}
+
+/* year / category header */
+.archive__subtitle {
+    font-size: 1.3rem !important;
+    font-weight: 600 !important;
+    margin-top: 2rem !important;
+    color: #001b44 !important;
+}
+
+
