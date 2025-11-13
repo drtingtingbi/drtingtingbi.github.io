@@ -82,7 +82,7 @@ Y. Zhang, D. Jayasundera, L. Huynh, W. Jeon, H. Kim, <strong>T. Bi</strong>, J. 
 <div class="pub-entry">
 <strong>[JSS-25] MPLinker: Multi-template Prompt-tuning with Adversarial Training for Issue-commit Link Recovery</strong><br/>
 B. Wang, Y. Deng, R. Li, P. Liang, <strong>T. Bi</strong>  
-<span class="pub-venue">📝 Journal of Systems and Software, Accepted.</span>
+<span class="pub-venue"><span class="pub-core">Core A</span> ·📝 Journal of Systems and Software, Accepted.</span>
 </div>
 
 <div class="pub-entry">
