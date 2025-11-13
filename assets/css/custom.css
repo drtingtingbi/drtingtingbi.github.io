@@ -210,5 +210,14 @@ body {
   margin-bottom: 1.5rem !important;
 }
 
+/* Selective block 高亮 */
+.pub-highlight {
+  border-left: 4px solid #003366;
+  background: #f5f7fb;
+  padding: 16px 22px;
+  border-radius: 10px;
+  margin: 16px 0 28px;
+}
+
 
 
