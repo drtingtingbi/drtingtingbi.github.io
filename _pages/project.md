@@ -43,15 +43,14 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
   </div>
 
   <p class="proj-desc">
-    This project investigates how architectural design, architectural knowledge, and quality
-    attributes shape the development of AI-based systems.
+      This project investigates how AI can support architectural reasoning by analysing architectural design decisions, architectural knowledge, and key quality attributes.
   </p>
 
   <div class="proj-extra">
     <ul>
-      <li>Mining architecture patterns, tactics, and quality attribute discussions.</li>
-      <li>Extracting architectural information from OSS communication channels.</li>
-      <li>Connecting architecture choices with maintainability and robustness.</li>
+      <li>AI-Driven Architectural Reasoning.</li>
+      <li>EMining Architectural Knowledge.</li>
+      <li>AI Support for Architecture Quality & Robustness.</li>
     </ul>
   </div>
 
