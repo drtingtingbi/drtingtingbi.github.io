@@ -87,7 +87,7 @@ B. Wang, Y. Deng, R. Li, P. Liang, <strong>T. Bi</strong>
 <div class="pub-entry">
 <strong>[ICSE’RAIE-25] Privacy in Foundation Models: A Conceptual Framework for System Design</strong>  
 <strong>T. Bi</strong>, G. Yu, Q. Wang  
-<span class="pub-venue">⭐ Co-located with ICSE · 📄 RAIE 2025 Workshop, Accepted.</span>
+<span class="pub-venue">📄 RAIE 2025 Workshop (Co-located with ICSE), Accepted.</span>
 </div>
 
 <div class="pub-entry">
