@@ -1274,3 +1274,38 @@ html {
   color: #000 !important;         /* 鼠标悬停变黑 */
 }
 
+/* ===== Navigation Bar (方案 A：学术浅灰蓝版) ===== */
+
+.masthead {
+  background-color: #f5f7fa !important;   /* 更现代的浅灰蓝 */
+  border-bottom: 1px solid #d8dde5 !important;  /* 更柔和的分割线 */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04); /* 轻微阴影让顶栏更清晰 */
+}
+
+/* 顶部导航的 logo/title */
+.masthead__title a {
+  color: #2e3a44 !important;
+  font-weight: 600 !important;
+}
+
+/* 菜单文字 */
+.masthead__menu-item a {
+  color: #333 !important;
+  font-size: 0.96rem !important; /* 稍微小一点，减少视觉压力 */
+  padding: 10px 14px !important;
+}
+
+/* hover 效果 */
+.masthead__menu-item a:hover {
+  color: #0056b3 !important;   /* 与你网站所有链接统一 */
+  background: rgba(0, 86, 179, 0.08); /* 漂亮的浅蓝 hover 背景 */
+  border-radius: 6px;
+}
+
+/* 当前页面高亮 */
+.masthead__menu-item--active a {
+  color: #0056b3 !important;
+  font-weight: 600 !important;
+  border-bottom: 2px solid #0056b3;
+}
+
