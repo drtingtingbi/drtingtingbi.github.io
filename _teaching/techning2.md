@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate and Master units"
 permalink: /teaching/2014-spring-teaching-1
 venue: "The Faculty of Information and Technology, Monash University"
-date: 2023-01-01
 location: "City, Country"
 ---
 
