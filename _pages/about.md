@@ -26,7 +26,7 @@ My research interests are centered around **Software architecture of AI-based sy
 
 - **PhD Students & Visiting Scholars:**  
 I am actively looking for self-motivated PhD students and visiting scholars to join my research group at the University of Melbourne.  
-If you are interested in my research areas (AI4Arch, Responsible AI, Software Supply Chain), please feel free to reach out at  **Tingting.Bi@unimelb.edu.au** 📧 with your CV and research interests. Please check the **China Scholarship Council - University of Melbourne PhD Scholarship**, see if you are eligible to apply. [Link](https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship)
+If you are interested in my research areas (AI4Arch, Responsible AI, and Software Supply Chain), please feel free to reach out at  **Tingting.Bi@unimelb.edu.au** 📧 with your CV and research interests. Please check the **China Scholarship Council - University of Melbourne PhD Scholarship**, see if you are eligible to apply. [Link](https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship)
 
 
 - **MPhil / Master Students:**  
