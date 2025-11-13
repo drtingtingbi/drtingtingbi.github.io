@@ -388,5 +388,21 @@ body {
     font-weight: 500 !important;
 }
 
+/* ===== Unified Venue Color Styling for Publication Page ===== */
+
+/* 自动匹配每篇论文的第 3 行（venue 行） */
+.archive .archive__item p:nth-of-type(3),
+.archive .archive__item-excerpt p:nth-of-type(3) {
+    color: #0056b3 !important;     /* 专业蓝 */
+    font-weight: 500 !important;
+}
+
+/* 如果 venue 行以图标开头，也仍然保持蓝色 */
+.archive .archive__item p:nth-of-type(3) span,
+.archive .archive__item-excerpt p:nth-of-type(3) span {
+    color: #0056b3 !important;
+}
+
+
 
 
