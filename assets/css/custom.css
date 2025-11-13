@@ -477,5 +477,16 @@ span.pub-venue em {
     color: #0056b3 !important;
 }
 
+/* ===== Publications: venue 统一为蓝色 ===== */
+
+.page__content .pub-venue {
+  color: #0056b3 !important;    /* 深一点的蓝，更专业 */
+  font-weight: 500;
+}
+
+/* venue 里的 emoji / 加粗 等也跟着变蓝 */
+.page__content .pub-venue * {
+  color: #0056b3 !important;
+}
 
 
