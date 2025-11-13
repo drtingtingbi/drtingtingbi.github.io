@@ -403,6 +403,32 @@ body {
     color: #0056b3 !important;
 }
 
+/* ===== Make Teaching page font smaller and unified ===== */
+
+/* Teaching 页面正文整体缩小 */
+.page-teaching .page__content,
+.page-teaching .page__content p,
+.page-teaching .page__content li,
+.page-teaching .page__content span {
+    font-size: 16px !important;
+    line-height: 1.6 !important;
+    color: #222;
+}
+
+/* 卡片内部字体统一 */
+.page-teaching .teach-year-card,
+.page-teaching .teach-entry,
+.page-teaching .teach-meta,
+.page-teaching .teach-note {
+    font-size: 16px !important;
+}
+
+/* 卡片标题（校名）稍微大一点但不夸张 */
+.page-teaching .teach-year-header {
+    font-size: 20px !important;
+    font-weight: 600 !important;
+}
+
 
 
 
