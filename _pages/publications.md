@@ -10,7 +10,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 
 ## Selective Publications
 
-<div class="pub-highlight">
+
 ### 2025
 
 **[Mathematics-25] Dynamic Snake Convolution Neural Network for Enhanced Image Super-Resolution**  
@@ -141,7 +141,7 @@ W. Laksri, A. Aldeida, **T. Bi**, A. Tang
 C. Yang, P. Liang, P. Avgeriou, U. Eliasson, R. Heldal, P. Pelliccione, **T. Bi**  
 ⭐ Core A · 📝 Journal of Systems and Software 134, 190–210.
 
-</div>
+
 
 
 
