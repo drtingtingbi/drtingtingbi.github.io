@@ -36,6 +36,15 @@ I also welcome Master of Information Technology or MPhil students. Please contac
 
 ### News! 📣📢
 
+<div class="news-scroll">
+  <ul>
+    <li>2025  - We are hosting the **Australian Summer School in Software Engineering (OzSE), 2026**, [Website](https://ozse-school.github.io/#/)</li>
+    <li>2025 — Our ICSE'25 paper on Stack Overflow post updating is accepted!</li>
+    <li>2025 — Two TOSEM papers accepted.</li>
+    <li>2024 — Invited to serve on FSE and ICSE PC committees.</li>
+  </ul>
+</div>
+
   
 - We are hosting the **Australian Summer School in Software Engineering (OzSE), 2026**, [Website](https://ozse-school.github.io/#/)
 
