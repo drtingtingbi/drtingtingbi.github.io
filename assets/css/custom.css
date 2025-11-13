@@ -141,5 +141,36 @@ body {
   line-height: 1.4 !important;
   color: #0056b3 !important; /* 与 homepage 链接颜色一致 */
 }
+/* ========== 统一 Publications 等 archive 页面的字体和行距 ========== */
+
+/* 列表正文（论文简要介绍） */
+.archive__item-excerpt,
+.archive__item-excerpt p {
+  font-size: 16px !important;
+  line-height: 1.65 !important;
+  color: #222 !important;
+}
+
+/* 列表中的 bullet 列表（如果有） */
+.archive__item-excerpt ul li,
+.archive__item-excerpt ol li {
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+  margin-bottom: 0.5rem;
+}
+
+/* 论文标题 */
+.archive__item-title a {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  line-height: 1.4 !important;
+  color: #0056b3 !important;  /* 和主页链接颜色统一 */
+}
+
+/* Publications 页正文区域（如果有额外文字） */
+.archive__item-body {
+  font-size: 16px !important;
+  line-height: 1.65 !important;
+}
 
 
