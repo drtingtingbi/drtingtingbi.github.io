@@ -35,7 +35,7 @@ If you are interested in my research areas (AI4Arch, Responsible AI, and Softwar
     >
     > - Check the University of Melbourne [application process](https://study.unimelb.edu.au/how-to-apply/graduate-research) and [entry requirements](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/entry-requirements/).
     > - Review eligibility for the **CSC - University of Melbourne PhD Scholarship**. [Link](https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship)
-    > - GPA ≥ 82 (UniMelb) / GPA ≥ 85 (external), plus Software Engineering research experience.
+    > - GPA ≥ 80 (UniMelb) / GPA ≥ 82 (external), plus Software Engineering research experience.
 
 
 - **MPhil / Master Students:**  
