@@ -11,7 +11,6 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 ## Selective Publications
 
 
-### 2025
 
 <div class="pub-year-card">
   <div class="pub-year-header">2025</div>
@@ -52,7 +51,6 @@ Y. Mai, Z. Gao, H. Wang, **T. Bi**, X. Hu, X. Xia, J. Sun
 
 ---
 
-### 2024
 
 <div class="pub-year-card">
   <div class="pub-year-header">2024</div>
@@ -85,7 +83,6 @@ Q. Wang, G. Yu, **T. Bi**, D. Bandara, S. Chen
 
 ---
 
-### 2023
 
 <div class="pub-year-card">
   <div class="pub-year-header">2023</div>
@@ -110,7 +107,6 @@ G. Yu, Q. Wang, **T. Bi**, S. Chen, X. Xu
 
 ---
 
-### 2022
 
 <div class="pub-year-card">
   <div class="pub-year-header">2022</div>
@@ -126,8 +122,6 @@ W. Laksri, A. Aldeida, **T. Bi**, A. Tang
 </div>
 
 ---
-
-### 2021
 
 <div class="pub-year-card">
   <div class="pub-year-header">2021</div>
@@ -152,7 +146,6 @@ W. Laksri, A. Aldeida, **T. Bi**, A. Tang
 
 ---
 
-### 2019
 
 <div class="pub-year-card">
   <div class="pub-year-header">2019</div>
@@ -169,7 +162,6 @@ W. Laksri, A. Aldeida, **T. Bi**, A. Tang
 
 ---
 
-### 2018
 
 <div class="pub-year-card">
   <div class="pub-year-header">2018</div>
