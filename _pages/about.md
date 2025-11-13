@@ -29,8 +29,6 @@ I am actively looking for self-motivated PhD students and visiting scholars to j
 If you are interested in my research areas (AI4Arch, Responsible AI, and Software Supply Chain), please feel free to reach out at  **Tingting.Bi@unimelb.edu.au** 📧 with your CV and research interests.
 
 
-- **How to Apply**
-
     > **Application checklist:**
     >
     > - Check the University of Melbourne [application process](https://study.unimelb.edu.au/how-to-apply/graduate-research) and [entry requirements](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/entry-requirements/).
