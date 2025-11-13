@@ -274,4 +274,71 @@ body {
 }
 
 
+/* ===============================
+   Teaching Experience Layout — Spacing Upgrade
+   =============================== */
+
+/* 整个年份卡片 */
+.teach-year-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 22px 26px;
+  margin: 28px 0;
+  border-top: 4px solid #0077c8;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+/* 年份标题 */
+.teach-year-header {
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: #0077c8;
+  margin-bottom: 16px;    /* 加大空间 */
+}
+
+/* 每条 teaching entry */
+.teach-entry {
+  padding: 18px 0;         /* 条目之间更宽松 */
+  border-top: 1px solid #e7e7e7;
+}
+
+/* 第一条不需要上边框 */
+.teach-entry:first-of-type {
+  border-top: none;
+}
+
+/* 课程名字 */
+.teach-role {
+  font-size: 1.02rem;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+/* Meta 信息（School 信息） */
+.teach-meta {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 4px;
+  line-height: 1.55;
+  display: flex;
+}
+
+/* Note 信息（Semester + Level） */
+.teach-note {
+  font-size: 0.93rem;
+  color: #555;
+  line-height: 1.55;
+  display: flex;
+}
+
+/* 图标间距 */
+.teach-icon {
+  margin-right: 8px;
+  margin-top: 2px;
+}
+
+/* 让 Teaching 页面整体更舒适 */
+.page__content > p:first-of-type {
+  margin-bottom: 1.5rem;
+}
 
