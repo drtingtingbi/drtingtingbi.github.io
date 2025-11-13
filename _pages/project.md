@@ -41,22 +41,26 @@ I am fortunate to collaborate closely with colleagues and mentors from academia 
       </div>
     </div>
 
+    <!-- 总结：始终可见 -->
     <p class="proj-desc">
-      This line of work focuses on understanding and designing architectures for AI-based systems, and on mining and managing architectural
-      knowledge that links design decisions to quality attributes.
+      This line of work studies how we can design, analyse, and communicate architectures for AI-based systems,
+      and how architectural knowledge influences system qualities.
     </p>
 
-    <ul>
-      <li>Mining architecture patterns, tactics, and related quality attribute discussions.</li>
-      <li>Extracting communicated architectural information from developer mailing lists and other OSS communication channels.</li>
-      <li>Connecting architectural decisions to system qualities such as maintainability, robustness, and performance.</li>
-    </ul>
+    <!-- 详情：hover 卡片时展开 -->
+    <div class="proj-extra">
+      <ul>
+        <li>Mining architecture patterns, tactics, and related quality attribute discussions from developer communities.</li>
+        <li>Extracting communicated architectural information from mailing lists and OSS communication channels.</li>
+        <li>Linking architectural decisions to quality attributes such as maintainability, robustness, and performance.</li>
+      </ul>
 
-    <p align="center" style="margin-top: 8px;">
-      <img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/AIarchitecture.png"
-           alt="AI-based software architecture overview"
-           style="max-width: 100%; height: auto;">
-    </p>
+      <p style="text-align: center;">
+        <img class="proj-img"
+             src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/AIarchitecture.png"
+             alt="AI-based software architecture overview">
+      </p>
+    </div>
   </div>
 
   <!-- Project 2 -->
@@ -74,23 +78,23 @@ I am fortunate to collaborate closely with colleagues and mentors from academia 
     </div>
 
     <p class="proj-desc">
-      This project explores how large language models can support software engineering teams in managing and reusing knowledge
-      throughout development and design processes.
+      We explore how large language models can support software teams in managing, reusing, and operationalising
+      development and design knowledge at scale.
     </p>
 
-    <ul>
-      <li><strong>Technical debt management:</strong> identifying, prioritising, and addressing technical debt to maintain
-          long-term code health and productivity.</li>
-      <li><strong>Documentation support:</strong> generating and maintaining clear, concise, and up-to-date documentation
-          for architectures, APIs, and development workflows.</li>
-      <li><strong>Design &amp; review assistance:</strong> using LLMs to summarise design discussions and suggest alternative solutions.</li>
-    </ul>
+    <div class="proj-extra">
+      <ul>
+        <li><strong>Technical debt management:</strong> identifying, prioritising, and addressing technical debt to maintain long-term code health.</li>
+        <li><strong>Documentation assistance:</strong> keeping architectural and API documentation clear, concise, and up to date.</li>
+        <li><strong>Design and review support:</strong> using LLMs to summarise design discussions and suggest alternative solutions.</li>
+      </ul>
 
-    <p align="center" style="margin-top: 8px;">
-      <img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/LLMknowledge.png"
-           alt="LLM-based knowledge management for software engineering"
-           style="max-width: 100%; height: auto;">
-    </p>
+      <p style="text-align: center;">
+        <img class="proj-img"
+             src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/LLMknowledge.png"
+             alt="LLM-based knowledge management for software engineering">
+      </p>
+    </div>
   </div>
 
   <!-- Project 3 -->
@@ -109,23 +113,22 @@ I am fortunate to collaborate closely with colleagues and mentors from academia 
 
     <p class="proj-desc">
       This project investigates how to embed responsibility and transparency into AI-based software systems by design,
-      drawing on both software architecture and software supply chain perspectives.
+      bringing together software architecture and software supply chain perspectives.
     </p>
 
-    <ul>
-      <li>Enhancing transparency in AI systems through product-pattern-focused design (e.g., SBOM, AIBOM).</li>
-      <li>Studying how architectural and supply chain artefacts can be used to analyse and mitigate risks in AI development.</li>
-      <li>Proposing practical guidance and frameworks for responsible AI engineering in real-world settings.</li>
-    </ul>
+    <div class="proj-extra">
+      <ul>
+        <li>Using product-pattern-focused artefacts (e.g., SBOM, AIBOM) to analyse AI system components and dependencies.</li>
+        <li>Understanding risks and obligations in AI supply chains, from models to libraries and services.</li>
+        <li>Proposing practical guidance and frameworks for responsible AI engineering in real-world settings.</li>
+      </ul>
 
-    <p align="center" style="margin-top: 8px;">
-      <img src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png"
-           alt="Responsible AI and architectural transparency"
-           style="max-width: 100%; height: auto;">
-    </p>
+      <p style="text-align: center;">
+        <img class="proj-img"
+             src="https://raw.githubusercontent.com/drtingtingbi/drtingtingbi.github.io/refs/heads/master/images/ResAI.png"
+             alt="Responsible AI and architectural transparency">
+      </p>
+    </div>
   </div>
 
 </div>
-
-
-
