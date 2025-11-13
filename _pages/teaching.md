@@ -122,4 +122,30 @@ Below is a summary of my teaching experience across the University of Melbourne,
   </div>
 </div>
 
+/* ===============================
+   Publication venue 统一蓝色（如 ICSE、TOSEM、TSE、JSS 等）
+   =============================== */
+
+/* 第二行 venue + status（Accepted, Core A…） */
+.page__content .pub-venue,
+.page__content .pub-venue * {
+  color: #0056b3 !important;      /* 专业深蓝 */
+}
+
+/* 若使用 emoji 开头，也统一处理 */
+.page__content p.pub-venue {
+  color: #0056b3 !important;
+}
+
+/* 确保核心会议标记也变蓝，例如 “Core A”, “Core A*” */
+.page__content .pub-core {
+  color: #0056b3 !important;
+  font-weight: 600;
+}
+
+/* 让 venue 链接 hover 更一致 */
+.page__content .pub-venue a:hover {
+  text-decoration: underline;
+}
+
 
