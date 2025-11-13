@@ -32,7 +32,7 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
 
   <div class="proj-header">
     <div>
-      <div class="proj-title">Software Architecture Design for AI-based Systems</div>
+      <div class="proj-title">AI4Arch</div>
       <div class="proj-meta">Architecture · Design knowledge · Quality attributes</div>
     </div>
     <div class="proj-tags">
