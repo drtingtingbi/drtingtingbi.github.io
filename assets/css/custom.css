@@ -597,4 +597,25 @@ span.pub-venue em {
   padding-right: 20px; /* 防止太贴右侧 */
 }
 
+/* 正文整体字体比例缩小 */
+html {
+  font-size: 15px;   /* 默认 16px，我们缩到 15 或 14 */
+}
+
+/* 一级标题（如 Teaching、Publications）缩小一点 */
+.page__title {
+  font-size: 1.9rem !important;
+}
+
+/* 年份标题（如 2025） */
+.pub-year-title {
+  font-size: 1.25rem !important;
+}
+
+/* 每条论文的条目（原字体偏大） */
+.pub-entry {
+  font-size: 0.95rem !important;
+}
+
+
 
