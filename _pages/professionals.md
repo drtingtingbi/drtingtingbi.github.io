@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="highlight-box">
   <p><strong>Service statement.</strong> I actively contribute to the software engineering and AI communities through program committee memberships and journal reviewing.</p>
-  <p>My service focuses on software architecture, AI4SE, Web3, and responsible AI.</p>
+  <p>My service mainly focuses on software architecture, AI4SE, Web3, and responsible AI.</p>
 </div>
 
 ---
@@ -16,7 +16,7 @@ author_profile: true
 
 <div class="service-grid">
 
-  <!-- Conferences -->
+  <!-- Conferences card -->
   <div class="service-card">
     <div class="service-header">
       <div>
@@ -50,7 +50,7 @@ author_profile: true
     </ul>
   </div>
 
-  <!-- Journals -->
+  <!-- Journals card -->
   <div class="service-card">
     <div class="service-header">
       <div>
@@ -74,5 +74,6 @@ author_profile: true
   </div>
 
 </div>
+
 
 
