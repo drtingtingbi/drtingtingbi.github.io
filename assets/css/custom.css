@@ -1118,4 +1118,65 @@ html {
   line-height: 1.5;
 }
 
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  gap: 18px;
+  margin-top: 10px;
+}
+
+.service-card {
+  background: #f9fafc;
+  border-radius: 14px;
+  border: 1px solid #dde3ee;
+  padding: 16px 18px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: 0.22s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 14px rgba(0,0,0,0.10);
+  border-color: #c8d3f2;
+}
+
+.service-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: flex-start;
+  margin-bottom: 6px;
+}
+
+.service-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #102a43;
+}
+
+.service-meta {
+  font-size: 0.82rem;
+  color: #6b778d;
+}
+
+.service-tag {
+  font-size: 0.7rem;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: #eef1ff;
+  border: 1px solid #d8defd;
+  color: #344675;
+}
+
+.service-list {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: #2f3f53;
+}
+
+.service-list li {
+  margin-bottom: 4px;
+}
 
