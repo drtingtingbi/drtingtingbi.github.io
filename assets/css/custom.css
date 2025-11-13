@@ -35,6 +35,60 @@ body {
   margin-bottom: 1.0rem;  /* 段落之间更松，学术感更强 */
 }
 
+/* ===== Teaching Experience 年份卡片风格 ===== */
+
+.teach-year-card {
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+  border-top: 4px solid #0077c8;   /* 顶部蓝线 */
+  padding: 14px 20px 18px;
+  margin-bottom: 20px;
+}
+
+.teach-year-header {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #0077c8;
+  margin-bottom: 8px;
+}
+
+/* 每一条 teaching entry */
+.teach-entry {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 1px solid #eeeeee;
+}
+
+.teach-entry:first-of-type {
+  border-top: none;
+}
+
+.teach-role {
+  font-size: 0.98rem;
+  margin-bottom: 4px;
+}
+
+.teach-meta,
+.teach-note {
+  font-size: 0.9rem;
+  color: #555;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2px;
+}
+
+.teach-icon {
+  margin-right: 6px;
+  margin-top: 1px;
+}
+
+/* 让页面标题和卡片之间留一点空间 */
+.page__content > p:first-of-type {
+  margin-bottom: 1.0rem;
+}
+
+
 /* ----------- 链接样式（更高级的蓝色）----------- */
 .page__content a {
   color: #0056b3;         /* 深一点的蓝，更专业 */
