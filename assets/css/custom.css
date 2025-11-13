@@ -1180,3 +1180,41 @@ html {
   margin-bottom: 4px;
 }
 
+/* ========== Typing tagline under About ========== */
+
+.tagline-typing {
+  margin-top: 0.8rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.98rem;
+  font-weight: 400;
+  color: #233149;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tagline-prefix {
+  font-weight: 500;
+  color: #555;
+}
+
+#tt-typewriter {
+  font-weight: 500;
+  color: #0056b3;  /* 和你链接蓝色呼应 */
+}
+
+/* 小闪烁光标 */
+.tagline-cursor {
+  display: inline-block;
+  width: 8px;
+  margin-left: 2px;
+  animation: tt-blink 0.9s steps(1) infinite;
+  color: #0056b3;
+}
+
+@keyframes tt-blink {
+  0%, 50% { opacity: 1; }
+  50.01%, 100% { opacity: 0; }
+}
+
