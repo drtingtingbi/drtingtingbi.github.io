@@ -1218,3 +1218,37 @@ html {
   50.01%, 100% { opacity: 0; }
 }
 
+/* ===== News Auto Scroll ===== */
+.news-scroll {
+  height: 140px;              /* 可调整高度 */
+  overflow: hidden;
+  position: relative;
+  border-left: 4px solid #003366;
+  background: #f8f9fc;
+  padding: 8px 15px;
+  border-radius: 8px;
+}
+
+.news-scroll ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  animation: newsScroll 12s linear infinite;
+}
+
+.news-scroll li {
+  margin-bottom: 10px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+/* Hover 时暂停滚动 */
+.news-scroll:hover ul {
+  animation-play-state: paused;
+}
+
+/* 滚动 Keyframes */
+@keyframes newsScroll {
+  0%   { transform: translateY(0); }
+  100% { transform: translateY(-100%); }
+}
