@@ -49,7 +49,7 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
   <div class="proj-extra">
     <ul>
       <li>AI-Driven Architectural Reasoning.</li>
-      <li>EMining Architectural Knowledge.</li>
+      <li>Mining Architectural Knowledge.</li>
       <li>AI Support for Architecture Quality & Robustness.</li>
     </ul>
   </div>
