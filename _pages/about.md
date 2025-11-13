@@ -34,6 +34,11 @@ I also welcome Master of Information Technology or MPhil students. Please contac
 
 </div>
 
+<div class="tagline-typing">
+  <span class="tagline-prefix">Research tagline:</span>
+  <span id="tt-typewriter"></span>
+  <span class="tagline-cursor">|</span>
+</div>
 
 
 ### News! 📣📢
