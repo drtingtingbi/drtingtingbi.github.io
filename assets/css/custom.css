@@ -379,4 +379,14 @@ body {
     color: #001b44 !important;
 }
 
+/* ===== Make venue lines (ICSE, TOSEM, TSE etc.) blue and unified ===== */
+
+/* venue line: the 3rd <p> inside each publication item */
+.archive .archive__item p:nth-of-type(3),
+.archive .archive__item-excerpt p:nth-of-type(3) {
+    color: #0056b3 !important;   /* 专业蓝 */
+    font-weight: 500 !important;
+}
+
+
 
