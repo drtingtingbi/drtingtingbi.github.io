@@ -133,13 +133,13 @@ C. Chen, J. Su, J. Chen, Y. Wang, <strong>T. Bi</strong>, J. Yu, Y. Wang, X. Lin
 <div class="pub-entry">
 <strong>[Mathematics-24] Graph Convolutional Network for Image Restoration: A Survey</strong><br/>
 T. Cheng, <strong>T. Bi</strong>, W. Ji, C. Tian  
-<span class="pub-venue">📝 Mathematics 12(13).</span>
+<span class="pub-venue"> 📝 Mathematics 12(13).</span>
 </div>
 
 <div class="pub-entry">
 <strong>[IEEE Blockchain-24] A Responsibility Pillar: Exploring and Assessing Decentralized Intelligence</strong><br/>
 Q. Wang, G. Yu, <strong>T. Bi</strong>, D. Bandara, S. Chen  
-<span class="pub-venue">📝 IEEE Blockchain 2024.</span>
+<span class="pub-venue"> 📝 IEEE Blockchain 2024.</span>
 </div>
 
 </div>
