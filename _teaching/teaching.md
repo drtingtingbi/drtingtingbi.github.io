@@ -4,7 +4,6 @@ collection: teaching
 type: "Master units"
 permalink: /teaching/2014-spring-teaching-1
 venue: "The Department of Computer Science and Software Engineering, the University of Western Australia"
-date: 2024-01-01
 location: "City, Country"
 ---
 
