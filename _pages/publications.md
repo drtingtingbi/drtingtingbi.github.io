@@ -57,19 +57,19 @@ XL S. Yitagesu, Z. Xing, X. Zhang, Z. Feng, <strong>T. Bi</strong>, L. Hen
 <div class="pub-entry">
 <strong>[Mathematics-25] Dynamic Snake Convolution Neural Network for Enhanced Image Super-Resolution</strong>  
 W. Xin, Z. Wu, Q. Zhu, <strong>T. Bi</strong>, B. Li, C. Tian  
-<div class="pub-venue"> 📄 Mathematics, Vol. 13(15), 2457.</div>
+<div class="pub-venue"> · 📄 Mathematics, Vol. 13(15), 2457.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[Mathematics-25] An Omni-dimensional Dynamic Convolutional Network for Single Image Super-Resolution</strong>  
 X. Chen, Z. Wu, W. Zhang, <strong>T. Bi</strong>, C. Tian  
-<div class="pub-venue"> 📄 Mathematics, Vol. 13(15), 2388.</div>
+<div class="pub-venue"> · 📄 Mathematics, Vol. 13(15), 2388.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[ACL’System Demonstration-25] DocSpiral: A Platform for Integrated Assistive Document Annotation</strong>  
 Q. Sun, <strong>T. Bi</strong>, S. Li, E. Holden, P. Duuring, K. Niu, W. Liu  
-<div class="pub-venue"> 📄 ACL System Demonstration, Accepted.</div>
+<div class="pub-venue"> · 📄 ACL System Demonstration, Accepted.</div>
 </div>
 
 <div class="pub-entry">
@@ -87,7 +87,7 @@ B. Wang, Y. Deng, R. Li, P. Liang, <strong>T. Bi</strong>
 <div class="pub-entry">
 <strong>[ICSE’RAIE-25] Privacy in Foundation Models: A Conceptual Framework for System Design</strong>  
 <strong>T. Bi</strong>, G. Yu, Q. Wang  
-<div class="pub-venue"> 📄 RAIE 2025 Workshop (Co-located with ICSE), Accepted.</div>
+<div class="pub-venue"> · 📄 RAIE 2025 Workshop (Co-located with ICSE), Accepted.</div>
 </div>
 
 <div class="pub-entry">
@@ -115,7 +115,7 @@ Y. Mai, Z. Gao, H. Wang, <strong>T. Bi</strong>, X. Hu, X. Xia, J. Sun
 <div class="pub-entry">
 <strong>[TCSS-24] Toward Web3 Applications: Easing the Access and Transition</strong><br/>
 G. Yu, X. Wang, Q. Wang, <strong>T. Bi</strong>, Y. Dong, R. Liu, N. Georgalas, A. Reeves  
-<span class="pub-venue"> 📝 IEEE Transactions on Computational Social Systems.</span>
+<span class="pub-venue"> · 📝 IEEE Transactions on Computational Social Systems.</span>
 </div>
 
 <div class="pub-entry">
@@ -133,13 +133,13 @@ C. Chen, J. Su, J. Chen, Y. Wang, <strong>T. Bi</strong>, J. Yu, Y. Wang, X. Lin
 <div class="pub-entry">
 <strong>[Mathematics-24] Graph Convolutional Network for Image Restoration: A Survey</strong><br/>
 T. Cheng, <strong>T. Bi</strong>, W. Ji, C. Tian  
-<span class="pub-venue"> 📝 Mathematics 12(13).</span>
+<span class="pub-venue"> · 📝 Mathematics 12(13).</span>
 </div>
 
 <div class="pub-entry">
 <strong>[IEEE Blockchain-24] A Responsibility Pillar: Exploring and Assessing Decentralized Intelligence</strong><br/>
 Q. Wang, G. Yu, <strong>T. Bi</strong>, D. Bandara, S. Chen  
-<span class="pub-venue"> 📝 IEEE Blockchain 2024.</span>
+<span class="pub-venue"> · 📝 IEEE Blockchain 2024.</span>
 </div>
 
 </div>
@@ -152,7 +152,7 @@ Q. Wang, G. Yu, <strong>T. Bi</strong>, D. Bandara, S. Chen
 <div class="pub-entry">
 <strong>[BCRA-23] An Overview of Web3 Technology: Infrastructure, Applications, and Popularity</strong><br/>
 R. Huang, J. Chen, Y. Wang, <strong>T. Bi</strong>, L. Nie, Z. Zheng  
-<span class="pub-venue">Blockchain: Research and Applications, 100173.</span>
+<span class="pub-venue"> · 📝 Blockchain: Research and Applications, 100173.</span>
 </div>
 
 <div class="pub-entry">
@@ -164,13 +164,13 @@ B. Xia, <strong>T. Bi</strong>, Z. Xing, Q. Lu, L. Zhu
 <div class="pub-entry">
 <strong>[ICBC-23] Leveraging Architectural Approaches in Web3 Applications — A DAO Perspective</strong><br/>
 G. Yu, Q. Wang, <strong>T. Bi</strong>, S. Chen, X. Xu  
-<span class="pub-venue">IEEE ICBC 2023.</span>
+<span class="pub-venue"> · 📝 IEEE ICBC 2023.</span>
 </div>
 
 <div class="pub-entry">
 <strong>[TOSEM-23] Accessibility in Software Practice: A Practitioner’s Perspective</strong><br/>
 <strong>T. Bi</strong>, X. Xia, D. Lo, J. Grundy, T. Zimmermann, D. Ford  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · ACM TOSEM 31(4), 1–26.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📝 ACM TOSEM 31(4), 1–26.</span>
 </div>
 
 </div>
@@ -184,13 +184,13 @@ G. Yu, Q. Wang, <strong>T. Bi</strong>, S. Chen, X. Xu
 <div class="pub-entry">
 <strong>[TOSEM-22] Predictive Models in Software Engineering: Challenges and Opportunities</strong><br/>
 Y. Yang, X. Xia, D. Lo, <strong>T. Bi</strong>, J. Grundy, X. Yang  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · ACM TOSEM 31(3), 1–72.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📝ACM TOSEM 31(3), 1–72.</span>
 </div>
 
 <div class="pub-entry">
 <strong>[ESE-22] Mining and Relating Design Contexts and Design Patterns from Stack Overflow</strong><br/>
 W. Laksri, A. Aldeida, <strong>T. Bi</strong>, A. Tang  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · Empirical Software Engineering 27(1).</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📝 Empirical Software Engineering 27(1).</span>
 </div>
 
 </div>
@@ -204,25 +204,25 @@ W. Laksri, A. Aldeida, <strong>T. Bi</strong>, A. Tang
 <div class="pub-entry">
 <strong>[JSS-21] Architecture Information Communication in Two OSS Projects: The Why, Who, When, and What</strong><br/>
 <strong>T. Bi</strong>, W. Ding, P. Liang, A. Tang  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · Journal of Systems and Software 181, 111035.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📝 Journal of Systems and Software 181, 111035.</span>
 </div>
 
 <div class="pub-entry">
 <strong>[JSS-21] Mining Architecture Tactics and Quality Attributes Knowledge in Stack Overflow</strong><br/>
 <strong>T. Bi</strong>, P. Liang, A. Tang, X. Xia  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · Journal of Systems and Software 180, 111005.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📝 Journal of Systems and Software 180, 111005.</span>
 </div>
 
 <div class="pub-entry">
 <strong>[ICSME-21] A First Look at Accessibility Issues in Popular GitHub Projects</strong><br/>
 <strong>T. Bi</strong>, X. Xia, D. Lo, A. Aleti  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · IEEE ICSME 2021.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📝 IEEE ICSME 2021.</span>
 </div>
 
 <div class="pub-entry">
 <strong>[TSE-21] An Empirical Study of Release Note Production and Usage in Practice</strong><br/>
 <strong>T. Bi</strong>, X. Xia, D. Lo, J. Grundy, T. Zimmermann  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · IEEE Transactions on Software Engineering 48(6), 1834–1852.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A*</span>· 📝 IEEE Transactions on Software Engineering 48(6), 1834–1852.</span>
 </div>
 
 </div>
@@ -236,13 +236,13 @@ W. Laksri, A. Aldeida, <strong>T. Bi</strong>, A. Tang
 <div class="pub-entry">
 <strong>[JSS-19] A Systematic Mapping Study on Text Analysis Techniques in Software Architecture</strong><br/>
 <strong>T. Bi</strong>, P. Liang, A. Tang, C. Yang  
-<span class="pub-venue"><span class="pub-core">Core A</span> · Journal of Systems and Software 144, 533–558.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📝 Journal of Systems and Software 144, 533–558.</span>
 </div>
 
 <div class="pub-entry">
 <strong>[APSEC-19] Architecture Patterns, Quality Attributes, and Design Contexts</strong><br/>
 <strong>T. Bi</strong>, P. Liang, A. Tang  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core B*</span> · APSEC 2019, 49–58.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core B*</span> · 📝 APSEC 2019, 49–58.</span>
 </div>
 
 </div>
@@ -256,7 +256,7 @@ W. Laksri, A. Aldeida, <strong>T. Bi</strong>, A. Tang
 <div class="pub-entry">
 <strong>[JSS-18] An Industrial Case Study on an Architectural Assumption Documentation Framework</strong><br/>
 C. Yang, P. Liang, P. Avgeriou, U. Eliasson, R. Heldal, P. Pelliccione, <strong>T. Bi</strong>  
-<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · Journal of Systems and Software 134, 190–210.</span>
+<span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📝 Journal of Systems and Software 134, 190–210.</span>
 </div>
 
 </div>
