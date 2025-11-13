@@ -5,6 +5,7 @@ type: "Master units"
 permalink: /teaching/2014-spring-teaching-1
 venue: "The Department of Computer Science and Software Engineering, the University of Western Australia"
 location: "City, Country"
+date: 2025-01-01   
 ---
 
 - **Subject Coordinator and Lecturer, CITS4401/3301, Software Requirements and Design, S1, 2025**
