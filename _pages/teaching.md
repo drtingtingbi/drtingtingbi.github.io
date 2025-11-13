@@ -3,7 +3,9 @@ title: "Teaching Experience"
 layout: single
 permalink: /teaching/
 author_profile: true
-show_date: false   # 不显示 Published 日期
+show_date: false   # 不显示 Published 日期‘
+classes: page-teaching
+
 ---
 
 Below is a summary of my teaching experience across the University of Melbourne, the University of Western Australia, and Monash University.
