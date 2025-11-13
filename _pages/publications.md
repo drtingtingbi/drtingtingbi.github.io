@@ -15,7 +15,7 @@ You can also find the full list of my papers on my [Google Scholar profile](http
 
 **[TOSEM-25] Systematic Literature Review on Software Security Vulnerability Information Extraction**
 XL S. Yitagesu, Z. Xing, X. Zhang, Z. Feng, **T. Bi**, L. Hen
-📝 ⭐ Core A* · ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.
+⭐ Core A* · 📝 · ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.
 
 **[Mathematics-25] Dynamic Snake Convolution Neural Network for Enhanced Image Super-Resolution**  
 W. Xin, Z. Wu, Q. Zhu, **T. Bi**, B. Li, C. Tian  
