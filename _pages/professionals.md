@@ -29,6 +29,7 @@ author_profile: true
     </div>
 
     <ul class="service-list">
+      <li>ICSME 2026 — Main Track, PC member</li>
       <li>FSE 2026 — Industry Track, PC member</li>
       <li>FSE 2026 — Main Track, PC member</li>
       <li>ICSE 2026 — Main Track, PC member</li>
