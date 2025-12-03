@@ -49,6 +49,12 @@ author_profile: true
 <div class="pub-year-title">2025</div>
 
 <div class="pub-entry">
+<strong>[JSS-26] An Empirical Study on Low Code Programming using Traditional vs Large Language Model Support </strong>  
+Y. Liu. J Chen. <strong>T. Bi</strong>, J. Grundy, Y. Wang, J. Yu, T. Chen, Y. Tang, Z. Zheng.  
+<div class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📄 The Journal of Systems & Software (JSS), Accepted.</div>
+</div>
+
+<div class="pub-entry">
 <strong>[TOSEM-25] Systematic Literature Review on Software Security Vulnerability Information Extraction</strong>  
 XL S. Yitagesu, Z. Xing, X. Zhang, Z. Feng, <strong>T. Bi</strong>, L. Hen  
 <div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</div>
