@@ -17,6 +17,24 @@ Below is a summary of my teaching experience across the University of Melbourne,
 
   <div class="teach-entry">
     <div class="teach-role">
+      <strong>Subject Coordinator & Lecturer, SWEN90009 — Software Requirements Analysis</strong>
+    </div>
+    <div class="teach-meta">
+      <span class="teach-icon">🏫</span>
+      <span>School of Computing and Information Systems</span>
+    </div>
+    <div class="teach-note">
+      <span class="teach-icon">📅</span>
+      <span>Semester 1, 2026 · Masters unit · Project-based software requirement analysis subject.</span>
+    </div>
+  </div>
+</div>
+
+<div class="teach-year-card">
+  <div class="teach-year-header">The University of Melbourne</div>
+
+  <div class="teach-entry">
+    <div class="teach-role">
       <strong>Subject Coordinator & Lecturer, SWEN90014 — Master Software Engineering Project</strong>
     </div>
     <div class="teach-meta">
