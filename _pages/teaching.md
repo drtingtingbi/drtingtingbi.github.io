@@ -30,9 +30,6 @@ Below is a summary of my teaching experience across the University of Melbourne,
   </div>
 </div>
 
-<div class="teach-year-card">
-  <div class="teach-year-header">The University of Melbourne</div>
-
   <div class="teach-entry">
     <div class="teach-role">
       <strong>Subject Coordinator & Lecturer, SWEN90014 — Master Software Engineering Project</strong>
