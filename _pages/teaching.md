@@ -28,7 +28,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
       <span>Semester 1, 2026 · Masters unit · Project-based software requirement analysis subject.</span>
     </div>
   </div>
-</div>
+
 
   <div class="teach-entry">
     <div class="teach-role">
