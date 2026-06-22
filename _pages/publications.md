@@ -44,7 +44,6 @@ author_profile: true
 </style>
 
 ---
-
 <div class="pub-year-card">
 <div class="pub-year-title">2026</div>
 
@@ -59,15 +58,15 @@ on the Foundations of Software Engineering (FSE), Accepted.</div>
 <strong>[FSE-26] Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing </strong>  
 Q. Pang, X. Yin, <strong>T. Bi</strong>, L. Bao, C. Ni, X. Yang
 <div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</div>
-
+</div>   <!-- ① 补上这个，关闭 FSE-26 这条 pub-entry -->
 
 <div class="pub-entry">
 <strong> An empirical study of Self-Admitted Technical Debt in AI agents </strong>  
 S. Fang, Z. Gao, <strong>T. Bi</strong>, H. Wang, F. Qiu, G. Chen, X. Wang
-<div class="pub-venue"> · 📄 Accepted.
+<div class="pub-venue"> · 📄 Accepted.</div>
 </div>
-  
-</div>
+
+</div>  
 
 
 
