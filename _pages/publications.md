@@ -44,6 +44,7 @@ author_profile: true
 </style>
 
 ---
+
 <div class="pub-year-card">
 <div class="pub-year-title">2026</div>
 
@@ -60,16 +61,13 @@ Q. Pang, X. Yin, <strong>T. Bi</strong>, L. Bao, C. Ni, X. Yang
 <div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</div>
 
 
-
-
 <div class="pub-entry">
-<strong>[SSRN-26] An empirical study of Self-Admitted Technical Debt in AI agents </strong>  
+<strong> An empirical study of Self-Admitted Technical Debt in AI agents </strong>  
 S. Fang, Z. Gao, <strong>T. Bi</strong>, H. Wang, F. Qiu, G. Chen, X. Wang
 <div class="pub-venue"> · 📄 SSRN, Accepted.</div>
 </div>
 
 
-</div>
 
 <div class="pub-year-card">
 <div class="pub-year-title">2025</div>
