@@ -50,14 +50,14 @@ author_profile: true
 <div class="pub-entry">
 <strong>[TOSEM-26] Leveraging Large Language Models for Efficient Smart Contract Version Updates </strong>  
 J. Chen, Y. Liu, Y. Chen, <strong>T. Bi</strong>, Y. Wang, Z. Shan, C. Chi, T. Chen, G. Ying, Z. Zheng.
-<div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 ACM International Conference
-on the Foundations of Software Engineering (FSE), Accepted.</div>
+<div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</div>
 </div>
 
 <div class="pub-entry">
 <strong>[FSE-26] Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing </strong>  
 Q. Pang, X. Yin, <strong>T. Bi</strong>, L. Bao, C. Ni, X. Yang
-<div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</div>
+<div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄  International Conference
+on the Foundations of Software Engineering (FSE) , Accepted.</div>
 </div>   <!-- ① 补上这个，关闭 FSE-26 这条 pub-entry -->
 
 <div class="pub-entry">
