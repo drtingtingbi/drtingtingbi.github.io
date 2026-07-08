@@ -72,8 +72,8 @@ author_profile: true
       <li>ACM Transactions on Software Engineering and Methodology (TOSEM)</li>
       <li>Empirical Software Engineering (EMSE)</li>
       <li>Journal of Systems and Software (JSS)</li>
-      <li>Automated Software Engineering</li>
-      <li>Journal of Software: Evolution and Process</li>
+      <li>Automated Software Engineering (ASE)</li>
+      <li>Journal of Software: Evolution and Process (JSEP)</li>
       <li>ACM Computing Surveys</li>
     </ul>
   </div>
