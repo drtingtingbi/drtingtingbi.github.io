@@ -23,7 +23,7 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
 
 ---
 
-## Research Projects
+## Research Topics
 
 <div class="proj-grid">
 
