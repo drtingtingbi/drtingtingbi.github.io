@@ -45,6 +45,21 @@ Below is a summary of my teaching experience across the University of Melbourne,
   </div>
 </div>
 
+  <div class="teach-entry">
+    <div class="teach-role">
+      <strong>Subject Lecturer, SWEN90007 — Software Design and Architecture</strong>
+    </div>
+    <div class="teach-meta">
+      <span class="teach-icon">🏫</span>
+      <span>School of Computing and Information Systems</span>
+    </div>
+    <div class="teach-note">
+      <span class="teach-icon">📅</span>
+      <span>Semester 2, 2026 · Masters unit · Project-based software engineering subject, focusing on architecture design.</span>
+    </div>
+  </div>
+</div>
+
 <div class="teach-year-card">
   <div class="teach-year-header">The University of Western Australia</div>
 
