@@ -43,7 +43,7 @@ Below is a summary of my teaching experience across the University of Melbourne,
       <span>Semester 2, 2025/2026 · Masters unit · Project-based software engineering subject.</span>
     </div>
   </div>
-</div>
+
 
   <div class="teach-entry">
     <div class="teach-role">
