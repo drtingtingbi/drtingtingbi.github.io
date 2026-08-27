@@ -63,7 +63,7 @@ on the Foundations of Software Engineering (FSE) , Accepted.</div>
 <div class="pub-entry">
 <strong> An empirical study of Self-Admitted Technical Debt in AI agents </strong>  
 S. Fang, Z. Gao, <strong>T. Bi</strong>, H. Wang, F. Qiu, G. Chen, X. Wang
-<div class="pub-venue"> · 📄 Accepted.</div>
+<div class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📄 The Journal of Systems & Software (JSS)，Accepted.</div>
 </div>
 
 </div>  
