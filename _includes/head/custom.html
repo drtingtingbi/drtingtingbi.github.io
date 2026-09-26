@@ -36,60 +36,22 @@
 <!-- end custom head snippets -->
 
 <script>
-/* Simple typewriter for homepage tagline */
-(function () {
-
-  function startTypewriter() {
-    var el = document.getElementById('tt-typewriter');
-    if (!el) return;   // 如果没找到这个 span，就直接退出
-
-    var taglines = [
-      "Building responsible, transparent, architecture-aware AI systems.",
-      "Making AI-based software development reliable, ethical, and efficient.",
-      "Bridging software architecture, AI4SE, and responsible AI practice."
-    ];
-
-    var i = 0;          // 当前在第几个句子
-    var j = 0;          // 当前句子打到第几个字符
-    var deleting = false;
-
-    function tick() {
-      var current = taglines[i];
-
-      if (!deleting) {
-        // 正在打字
-        j++;
-        el.textContent = current.slice(0, j);
-        if (j === current.length) {
-          // 打完一行，停顿 1.5 秒再开始删
-          deleting = true;
-          setTimeout(tick, 1500);
-          return;
-        }
-      } else {
-        // 正在删除
-        j--;
-        el.textContent = current.slice(0, j);
-        if (j === 0) {
-          deleting = false;
-          i = (i + 1) % taglines.length; // 下一句
-        }
-      }
-
-      // 打字 80ms/字符，删除 50ms/字符
-      var delay = deleting ? 50 : 80;
-      setTimeout(tick, delay);
+  document.addEventListener("DOMContentLoaded", function () {
+    var items = document.querySelectorAll(".reveal");
+    if (!("IntersectionObserver" in window)) {
+      items.forEach(function (item) { item.classList.add("is-visible"); });
+      return;
     }
 
-    tick();
-  }
+    var observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12 });
 
-  // 确保在 DOM 准备好之后再启动
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", startTypewriter);
-  } else {
-    startTypewriter();
-  }
-
-})();
+    items.forEach(function (item) { observer.observe(item); });
+  });
 </script>

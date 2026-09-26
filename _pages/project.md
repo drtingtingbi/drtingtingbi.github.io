@@ -3,6 +3,7 @@ layout: single
 title: "Projects"
 permalink: /project/
 author_profile: true
+classes: page-projects
 ---
 
 <div class="highlight-box">
@@ -29,6 +30,9 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
 
 <!-- Project 1 -->
 <div class="proj-card">
+
+  <div class="proj-number">01</div>
+  <div class="proj-visual"><img src="/images/project-ai-architecture.png" alt="Abstract modular software architecture illustration"></div>
 
   <div class="proj-header">
     <div>
@@ -59,6 +63,9 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
 
 <!-- Project 2 -->
 <div class="proj-card">
+
+  <div class="proj-number">02</div>
+  <div class="proj-visual"><img src="/images/project-knowledge-management.png" alt="Abstract software knowledge management illustration"></div>
 
   <div class="proj-header">
     <div>
@@ -91,6 +98,9 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
 <!-- Project 3 -->
 <div class="proj-card">
 
+  <div class="proj-number">03</div>
+  <div class="proj-visual"><img src="/images/project-responsible-ai.png" alt="Abstract responsible AI governance illustration"></div>
+
   <div class="proj-header">
     <div>
       <div class="proj-title">Responsible AI in Software Systems</div>
@@ -119,6 +129,4 @@ I am fortunate to collaborate with colleagues and mentors from academia and indu
 </div>
 
 </div>
-
-
 
