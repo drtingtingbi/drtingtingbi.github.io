@@ -73,7 +73,7 @@ redirect_from:
     <h3>Before you get in touch</h3>
     <ul>
       <li>Review the graduate research application process and entry requirements.</li>
-      <li>Check your eligibility for the CSC–University of Melbourne PhD Scholarship.</li>
+      <li>Check your eligibility for the <a href="https://scholarships.unimelb.edu.au/awards/china-scholarship-council-university-of-melbourne-phd-scholarship">CSC–University of Melbourne PhD Scholarship ↗</a>.</li>
       <li>Include your transcript, research interests, and relevant software engineering experience.</li>
     </ul>
   </div>
