@@ -146,8 +146,9 @@ body,button,input,select,textarea{font-family:"Avenir Next",Avenir,"Helvetica Ne
 .page__content strong{color:#314c47;font-weight:650}
 .page__content hr{margin:2.5rem 0;border:0;border-top:1px solid var(--line)}
 .author__content,.author__urls,.btn,.button,.service-pill,.proj-tag{font-family:"Avenir Next",Avenir,"Helvetica Neue",Arial,sans-serif}
-.author__name{font-family:Georgia,"Times New Roman",serif;font-weight:500;letter-spacing:-.02em}
-.author__bio,.author__urls{color:#62716e;font-size:.78rem;line-height:1.6}
+.author__name{font-family:Georgia,"Times New Roman",serif;font-size:1.4rem;font-weight:500;letter-spacing:-.02em}
+.author__bio{color:#62716e;font-size:.9rem;line-height:1.65}
+.author__urls{color:#62716e;font-size:.87rem;line-height:1.7}
 .archive__item-title,.archive__item-title a{font-family:Georgia,"Times New Roman",serif;font-weight:400!important;letter-spacing:-.012em}
 
 /* Colour theme toggle */
