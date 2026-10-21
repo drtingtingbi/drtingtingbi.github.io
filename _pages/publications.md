@@ -43,13 +43,27 @@ author_profile: true
 }
 </style>
 
+
 ---
+<div class="pub-year-card">
+<div class="pub-year-title">2027</div>
+
+<div class="pub-entry">
+<strong>[ICSE-27] VULNSEER: Layer-Wise Exploit State Re-expression for Vulnerable-Dependency Exploit Payload Synthesis
+ </strong>  
+J. Chen, Y. Liu, Y. Chen, <strong>T. Bi</strong>, Y. Wang, Z. Shan, C. Chi, T. Chen, G. Ying, Z. Zheng.
+<div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 The 49th IEEE/ACM International Conference on Software Engineering, Accepted.</div>
+</div>
+
+
+</div>  
+
 <div class="pub-year-card">
 <div class="pub-year-title">2026</div>
 
 <div class="pub-entry">
 <strong>[TOSEM-26] Leveraging Large Language Models for Efficient Smart Contract Version Updates </strong>  
-J. Chen, Y. Liu, Y. Chen, <strong>T. Bi</strong>, Y. Wang, Z. Shan, C. Chi, T. Chen, G. Ying, Z. Zheng.
+L. Ye, J. Sun, <strong>T. Bi</strong>, Z. Xing, L. Bao, X. Ren.
 <div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</div>
 </div>
 
