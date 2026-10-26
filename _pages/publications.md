@@ -264,15 +264,27 @@ W. Laksri, A. Aldeida, <strong>T. Bi</strong>, A. Tang
 <span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📝 IEEE ICSME 2021.</span>
 </div>
 
+
+
+</div>
+
+---
+
+<div class="pub-year-card">
+
+<div class="pub-year-title">2020</div>
+
 <div class="pub-entry">
-<strong>[TSE-21] An Empirical Study of Release Note Production and Usage in Practice</strong><br/>
+<strong>[TSE-20] An Empirical Study of Release Note Production and Usage in Practice</strong><br/>
 <strong>T. Bi</strong>, X. Xia, D. Lo, J. Grundy, T. Zimmermann  
 <span class="pub-venue"> ⭐ <span class="pub-core">Core A*</span>· 📝 IEEE Transactions on Software Engineering 48(6), 1834–1852.</span>
 </div>
 
 </div>
 
----
+----
+
+
 
 <div class="pub-year-card">
 
