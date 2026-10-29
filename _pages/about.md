@@ -52,7 +52,7 @@ redirect_from:
     </a>
     <a class="research-card" href="/project/">
       <span class="research-card__number">03</span><span class="research-card__icon" aria-hidden="true">↗</span>
-      <h3>Software Supply Chains</h3>
+      <h3>AI Supply Chain</h3>
       <p>Improving the security, visibility, and resilience of software and AI dependencies across the supply chain.</p>
       <span class="research-card__link">Discover the work →</span>
     </a>
