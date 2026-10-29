@@ -43,13 +43,27 @@ author_profile: true
 }
 </style>
 
+
 ---
+<div class="pub-year-card">
+<div class="pub-year-title">2027</div>
+
+<div class="pub-entry">
+<strong>[ICSE-27] VULNSEER: Layer-Wise Exploit State Re-expression for Vulnerable-Dependency Exploit Payload Synthesis
+ </strong>  
+J. Chen, Y. Liu, Y. Chen, <strong>T. Bi</strong>, Y. Wang, Z. Shan, C. Chi, T. Chen, G. Ying, Z. Zheng.
+<div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 The 49th IEEE/ACM International Conference on Software Engineering, Accepted.</div>
+</div>
+
+
+</div>  
+
 <div class="pub-year-card">
 <div class="pub-year-title">2026</div>
 
 <div class="pub-entry">
 <strong>[TOSEM-26] Leveraging Large Language Models for Efficient Smart Contract Version Updates </strong>  
-J. Chen, Y. Liu, Y. Chen, <strong>T. Bi</strong>, Y. Wang, Z. Shan, C. Chi, T. Chen, G. Ying, Z. Zheng.
+L. Ye, J. Sun, <strong>T. Bi</strong>, Z. Xing, L. Bao, X. Ren.
 <div class="pub-venue"> ⭐ <span class="pub-core">Core A*</span> · 📄 ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted.</div>
 </div>
 
@@ -250,15 +264,27 @@ W. Laksri, A. Aldeida, <strong>T. Bi</strong>, A. Tang
 <span class="pub-venue"> ⭐ <span class="pub-core">Core A</span> · 📝 IEEE ICSME 2021.</span>
 </div>
 
+
+
+</div>
+
+---
+
+<div class="pub-year-card">
+
+<div class="pub-year-title">2020</div>
+
 <div class="pub-entry">
-<strong>[TSE-21] An Empirical Study of Release Note Production and Usage in Practice</strong><br/>
+<strong>[TSE-20] An Empirical Study of Release Note Production and Usage in Practice</strong><br/>
 <strong>T. Bi</strong>, X. Xia, D. Lo, J. Grundy, T. Zimmermann  
 <span class="pub-venue"> ⭐ <span class="pub-core">Core A*</span>· 📝 IEEE Transactions on Software Engineering 48(6), 1834–1852.</span>
 </div>
 
 </div>
 
----
+----
+
+
 
 <div class="pub-year-card">
 
