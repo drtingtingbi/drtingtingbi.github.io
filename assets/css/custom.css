@@ -188,9 +188,9 @@ html[data-theme="dark"] .proj-visual img,html[data-theme="dark"] .home-hero__vis
 @media (prefers-reduced-motion:reduce){.theme-toggle__sun,.theme-toggle__moon,.theme-toggle{transition:none!important}}
 
 /* University of Melbourne-inspired colour system */
-:root{--ink:#001b37;--muted:#5d6c7c;--paper:#f5f4ef;--white:#fff;--line:#d7dee7;--mint:#dce9f5;--coral:#1d428a;--shadow:0 22px 60px rgba(0,27,55,.1)}
+:root{--ink:#001b37;--muted:#5d6c7c;--paper:#faf8f2;--white:#fff;--line:#d7dee7;--mint:#dce9f5;--coral:#1d428a;--shadow:0 22px 60px rgba(0,27,55,.1)}
 ::selection{background:#b9d9f3;color:#001b37}
-.masthead{border-color:rgba(0,27,55,.12);background:rgba(245,244,239,.91)}
+.masthead{border-color:rgba(0,27,55,.12);background:rgba(250,248,242,.92)}
 .page__content a,.archive__item a,.archive__item-title a{color:#1d428a!important}
 .page__content a:hover,.archive__item a:hover,.author__urls a:hover{color:#0b2f6b!important}
 .home-hero__eyebrow,.section-kicker,.opportunity__signal,.home-closing span,.service-eyebrow{color:#1d428a}
